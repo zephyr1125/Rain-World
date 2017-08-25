@@ -1,0 +1,8 @@
+DangerType: Rain
+Clouds: 0.326087
+Grime: 0
+BkgDroneVolume: 0
+Effects: FireFlies-0.1086956-20-20, 
+PlacedObjects: FlareBomb><319.4943><279.8001><0~0~2~3, FlareBomb><487.0927><277.6266><0~0~2~3, FlareBomb><398.3883><384.5841><0~0~2~3, FlareBomb><812.1982><200.723><0~0~2~3, GhostSpot><665.0596><479.5613><, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><846.4982><621.55><0.4673913><1, SPOT><AM_WIN-MedWind.ogg><764.5566><250.8011><0.4891304><0.8826087><584.5566><502.8011><-292.3553><-35.35535><0><0.5130436, 
+FadePalette: 0, 0.08695652

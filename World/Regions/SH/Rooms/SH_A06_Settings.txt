@@ -1,0 +1,7 @@
+DangerType: Rain
+Grime: 0
+BkgDroneVolume: 0
+Effects: FireFlies-0.2826087-20-20, 
+PlacedObjects: Mushroom><629.3832><204.3377><53~-182~2~3, Mushroom><607.1377><208.3271><78~-246~2~3, VoidSpawnEgg><401.8066><344.3011><-148~182~2~3~1, SlimeMold><79.69525><635.6923><235.0001~-111~2~3, SlimeMold><43.96021><647.554><-57~-122~2~3, SlimeMold><101.6913><343.0585><-284~-95~2~3, SlimeMold><81.6051><372.4201><-268~21~2~3, CosmeticSlimeMold><86.95081><645.8062><0~100, CosmeticSlimeMold><143.4265><366.5942><-6~107, CosmeticSlimeMold><475.1926><95.05409><-173~0, LightFixture><481.4493><99.80653><SlimeMoldLight~17.32051~-10~40, LightFixture><75.85583><617.8303><SlimeMoldLight~-188.6795~-152~88, LightFixture><129.1509><372.3688><SlimeMoldLight~17.32051~-10~46, SlimeMold><874.6914><464.0588><-333~-159~2~3, SlimeMold><838.8569><462.3897><-295~-66~2~3, CosmeticSlimeMold><381.0609><86.69051><-121~36, CosmeticSlimeMold><840.4408><508.8099><-69~41, LightFixture><856.8096><505.0613><SlimeMoldLight~17.32051~-10~50, SlimeMold><442.9284><86.38506><0~0~2~3, SlimeMold><475.1761><84.15532><0~0~2~3, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><764.95><568.0025><0.4456522><0.8630434, SPOT><AM_WIN-SubWnd.ogg><867.8516><323.384><0.4456522><1><801.8516><582.384><-256.3553><-35.35535><0><0.502174, SPOT><AM_WIN-MedWind.ogg><250.0099><175.5502><0.4130435><0.9217392><201.0099><567.5502><-192.3553><-132.3553><0><0.3391306, 
+FadePalette: 0, 0

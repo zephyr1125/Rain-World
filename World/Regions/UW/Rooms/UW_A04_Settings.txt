@@ -1,0 +1,10 @@
+Template: UW_SettingsTemplate_Underhang
+Clouds: 0.4673913
+Grime: 0.09782609
+BkgDroneVolume: 0
+Palette: 16
+EffectColorB: 3
+Effects: Lightning-0.5434783-20-20, GreenSparks-0.3695652-25-163, ExtraLoudThunder-0.4565217-25-107, ElectricDeath-0.5543478-271-21, 
+PlacedObjects: LightSource><581.0674><603.5815><0.3586957~Environment~0~100~50~86.60254~1~0, LightSource><154.432><606.917><0.4782609~Environment~0~100~-218~-188.3975~1~0, 
+AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><664.8245><569.6542><0.3913043><0.7652174, 
+FadePalette: 17, 0.4673913

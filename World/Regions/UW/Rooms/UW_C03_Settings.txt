@@ -1,0 +1,8 @@
+Template: UW_SettingsTemplate_Underhang
+Clouds: 0.07608695
+Grime: 0.02173913
+Palette: 16
+Effects: Lightning-0.7173913-43-166, GreenSparks-0.3913043-41-46, ExtraLoudThunder-0.4021739-43-103, ElectricDeath-0.4021739-45-0, 
+AmbientSounds: SPOT><AM_ENV-WallHum.ogg><56.20825><509.0544><0.4565217><0.823913><2985.208><416.0554><-116.3553><-116.3553><0><0.328261, SPOT><SO_WAT-RainishDrips.ogg><235.4332><507.0803><0.3586957><1><1552.434><630.0761><-261.3553><49.64465><0><0.3608697, SPOT><AM_WIN-HowlingWnd.ogg><55.96594><395.1971><0.2282609><1><-121.9549><275.8793><317.6447><-94.35534><0><0.3500001, SPOT><SO_IND-HVAC.ogg><764.6542><192.0744><0.3043478><0.7652174><701.6499><750.0803><-175.3553><-21.35535><0><0.1869567, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_UW_UNDERHANG<eA>vol<eB>0.3326084<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>473.9287<tB>360.4102<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0, 
+FadePalette: 17, 0.2065217, 0.25, 0.4021739

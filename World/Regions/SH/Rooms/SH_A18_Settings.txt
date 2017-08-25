@@ -1,0 +1,3 @@
+CeilingDrips: 0.5978261
+Grime: 0
+FadePalette: 0, 0.1086956

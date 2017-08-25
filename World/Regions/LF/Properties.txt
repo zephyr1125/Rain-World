@@ -1,0 +1,36 @@
+Palette: 14
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.8
+overseersMin: 0
+overseersMax: 6
+Subregion: Farm Arrays
+playerGuideOverseerSpawnChance: 0.4
+Room Setting Templates: Underground, Farms
+Room_Attr: LF_F02: Vulture-3,Centiwing-4,
+Room_Attr: LF_A04: CicadaA-1,CicadaB-1,Centiwing-1,SmallCentipede-3,
+Room_Attr: LF_A06: CicadaA-1,CicadaB-1,Centiwing-1,
+Room_Attr: LF_E04: Vulture-3,
+Room_Attr: LF_A03: CicadaA-1,CicadaB-1,SmallCentipede-4,
+Room_Attr: LF_H01: Vulture-2,
+Room_Attr: LF_A05: YellowLizard-2,CicadaA-1,CicadaB-1,Centiwing-2,SmallCentipede-3,
+Room_Attr: LF_J01: Vulture-2,
+Room_Attr: LF_D03: Vulture-3,
+Room_Attr: LF_E03: Vulture-3,
+Room_Attr: LF_D06: SmallCentipede-3,
+Room_Attr: LF_S01: SmallCentipede-1,
+Room_Attr: LF_E01: Vulture-3,
+Room_Attr: LF_D01: Vulture-3,
+Room_Attr: LF_C01: Vulture-3,
+Room_Attr: LF_A11: CicadaA-2,CicadaB-2,
+Room_Attr: LF_A13: CicadaA-2,CicadaB-2,
+Room_Attr: LF_A12: CicadaA-2,CicadaB-2,
+Room_Attr: LF_B01: Vulture-3,
+Room_Attr: LF_D07: Vulture-3,
+Room_Attr: LF_C02: Vulture-3,
+Room_Attr: LF_H02: Vulture-3,
+Room_Attr: LF_E05: Vulture-3,
+Room_Attr: LF_B04: CicadaA-1,CicadaB-1,SmallCentipede-3,
+Room_Attr: LF_D08: YellowLizard-4,CicadaA-1,CicadaB-1,SmallCentipede-3,

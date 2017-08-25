@@ -1,0 +1,7 @@
+Template: SU_SettingsTemplate_Inside
+Clouds: 0.1304348
+Grime: 0.3478261
+EffectColorB: 5
+PlacedObjects: CentipedeAttractor><358.5591><231.0595><-151~233, DangleFruit><397.0182><288.1992><156~282~2~3, DangleFruit><159.8455><327.1231><395~164~2~3, DangleFruit><364.2957><345.3053><190~66~2~3, 
+AmbientSounds: SPOT><SO_IND-Turbine.ogg><761.0931><221.323><0.3586957><0.9217392><255.0931><237.323><157.6447><-64.35535><0><0.4478262, SPOT><SO_IND-Fridge.ogg><733.8184><369.9162><0.2282609><1><213.8184><484.9162><-35.35534><-35.35534><0><0.3500001, 
+FadePalette: 8, 0.1847826

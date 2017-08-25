@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.25
+Grime: 0.3804348
+BkgDroneVolume: 0.2469565
+Palette: 5
+PlacedObjects: VultureGrub><655.6766><372.314><-509~182~7~10, InsectGroup><377.3822><274.1617><-6~101~0~0~Ant~0.8152174, DeadVultureGrub><690.5584><370.8087><-543~104~7~10, 
+AmbientSounds: OMNI><AM_IND-Warehouse02.ogg><771.6337><395.6488><0.5><0.5695652, 
+FadePalette: 20, 0.3152174

@@ -1,0 +1,8 @@
+Template: SH_SettingsTemplate_DarkSun
+Clouds: 0.3043478
+Grime: 0.1086956
+BkgDroneVolume: 0
+Effects: LightBurn-0.25-39-180, RockFlea-0.4891304-20-20, 
+PlacedObjects: LightSource><658.9033><269.8716><0.3985224~Environment~249~356~-744~246.6025~1~0, LightSource><576.9232><499.85><0.4456522~Environment~3~160~50~86.60254~1~0, DangleFruit><666.05><341.9987><-488~193~2~3, DangleFruit><730.804><317.4605><-819~91~2~3, DangleFruit><932.0527><528.7828><0~0~2~3, 
+AmbientSounds: SPOT><AM_ENV-CityTone.ogg><720.5479><564.0558><0.3804348><0.7065217><584.548><564.0558><-189.3553><-36.35535><0><0.3934784, OMNI><AM_ENV-CityTone.ogg><835.8067><646.0582><0.3913043><0.8434783, 
+FadePalette: 0, 0.2934783

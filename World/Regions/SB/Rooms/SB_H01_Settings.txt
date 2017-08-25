@@ -1,0 +1,9 @@
+Template: NONE
+Grime: 0.04347826
+BkgDroneVolume: 0
+Palette: 17
+EffectColorA: 13
+EffectColorB: 13
+Effects: VoidMelt-0.6521739-20-20, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><672.3571><631.6689><0.5><1.136956, OMNI><AM_ENV-SubTerr.ogg><852.6396><634.5833><0.5><1.254348, 
+FadePalette: 3, 0, 0, 0, 0, 0, 0, 0, 0

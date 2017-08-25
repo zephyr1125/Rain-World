@@ -1,0 +1,10 @@
+Template: SU_SettingsTemplate_Inside
+DangerType: FloodAndRain
+Clouds: 0.07608695
+BkgDroneVolume: 0.2769565
+EffectColorB: 6
+Effects: Flies-0-20-81, 
+PlacedObjects: CustomDecal><534.0498><162.0563><52~420~287~450~310~-42~6.999878~-155~0.173913~1~0.2391304~Boxheads~0.75~0.1086956~0.8369565~0~0.7065217~0.3913043~0.6739131~0.5326087, CustomDecal><193.154><190.4254><-9~81~265~124~277~-28~-329~136~0.5760869~1~0~junkGraffiti6~0.5~0.5543478~0~0.5543478~1~0.5543478~0~0.5543478, CustomDecal><378.3989><177.8659><-5~61~-68~58~-58~2~-472~-181~0.6413044~1~0~Ghostling3~0.75~0.1956522~1~0.1956522~0.1195652~0.1956522~0.5~0.1956522, CustomDecal><288.3814><184.4111><-1~75~52~66~40~0~-106~147~0.6521739~1~0~Ghostling3~1~0.173913~0.5~0.173913~0.5~0.173913~0.09782609~0.173913, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><691.2224><402.3019><0.4891304><0.6673913, SPOT><SO_IND-MechHum01.ogg><769.3632><297.0851><0.326087><1><427.6187><302.0851><-69.35535><-41.35535><0.2826087><0.5326087, 
+Triggers: Spot<tA>event<tB>PickUpObjectInstruction<tA>multiUse<tB>0<tA>toCycle<tB>7<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>81.69623<tB>465.5387<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>574.6962<tB>236.5387<tA>handlePos<tB>-242.3553<tB>-146.3553, Spot<tA>event<tB>BringPlayerGuideToRoom<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>803.1984<tB>211.7752<tA>fireChance<tB>1<tA>entrance<tB>2<tA>karma<tB>0<tA>pos<tB>326.1984<tB>167.7752<tA>handlePos<tB>-96.35535<tB>-93.35535, 
+FadePalette: 8, 0.2934783

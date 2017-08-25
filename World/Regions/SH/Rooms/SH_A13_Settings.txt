@@ -1,0 +1,10 @@
+DangerType: FloodAndRain
+CeilingDrips: 0.5
+Clouds: 0.2391304
+Grime: 0
+BkgDroneVolume: 0
+Palette: 0
+Effects: LightBurn-0.3804348-28-162, 
+PlacedObjects: LightSource><382.883><237.3994><0.326087~Environment~-451~294~-552~307.6025~1~0, LightSource><446.1412><189.4178><0.1413043~Environment~-66~210~-621~266.6025~1~1, LightSource><536.9219><727.3978><0.2717388~White~4~-94~-709~-356.3975~1~1, LightSource><699.8><389.2515><0.1195652~Environment~17~129~-870~-95.39746~1~1, LightSource><611.9405><146.4391><0.06521723~Environment~-92~11~-779~58.60254~1~1, DangleFruit><92.80884><548.9412><373~-11~2~3, DangleFruit><129.2696><573.301><0~0~2~3, DangleFruit><876.2078><544.9455><-746~-49~2~3, DangleFruit><834.6033><581.3287><-385~-326~2~3, DangleFruit><239.0521><365.5289><-262~-343~2~3, InsectGroup><129.098><234.0757><0~100~0~0~Moth~0.3804348, InsectGroup><788.6509><114.9237><-1~92~0~0~RockFlea~0.2391304, 
+AmbientSounds: SPOT><AM_WIN-SubWnd.ogg><848.0563><604.2999><0.4673913><1><578.0563><691.2999><-219.3553><-117.3553><0><0.3391306, OMNI><AM_ENV-CityTone.ogg><524.4495><629.2363><0.423913><0.8826087, SPOT><SO_NAT-LilDrips.ogg><711.3115><563.5669><0.1304348><1><226.3115><64.56691><-161.3553><-49.35535><0><0.4152175, 
+FadePalette: 10, 0.75

@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.04347826
+Grime: 0.1086956
+BkgDroneVolume: 0.2769565
+EffectColorA: 9
+EffectColorB: 6
+PlacedObjects: LightSource><544.899><376.8833><0.6956522~Environment~-16~103~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><774.5402><472.1959><0.3586957><0.7065217, OMNI><AM_IND-Utility02.ogg><788.4354><386.1751><0.326087><1, SPOT><AM_IND-ElectricHum01.ogg><776.937><291.9289><0.4347826><0.7847826><563.937><391.929><-120.3553><-61.35535><0><0.1, 
+FadePalette: 8, 0.5326087

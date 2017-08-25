@@ -1,0 +1,8 @@
+Template: NONE
+CeilingDrips: 0.6413044
+Grime: 0.06521739
+BkgDroneVolume: 0
+Palette: 10
+PlacedObjects: CosmeticSlimeMold2><2876.51><150.95><0~100, CosmeticSlimeMold><2944.104><202.3608><-27~92, LightFixture><2892.824><127.9357><SlimeMoldLight~42.32056~-148~64, CosmeticSlimeMold2><2927.973><136.3029><-22~77, SlimeMold><2915.662><132.3832><21.99841~-82.99731~2~3, CosmeticSlimeMold><2763.57><341.215><36~44, CosmeticSlimeMold2><2854.44><314.9398><-24~61, LightFixture><2806.83><320.6064><SlimeMoldLight~17.32051~-10~57, 
+AmbientSounds: OMNI><SO_WAT-DripTap.ogg><831.2792><646.8021><0.3043478><1, OMNI><AM_ENV-LightWind.ogg><648.1122><646.8551><0.326087><0.4717391, SPOT><Weird Deep Hole.wav><28.41455><491.8192><0.2065217><1><476.4146><206.8192><-195.3553><-83.35535><0><0.2847827, SPOT><Weird Deep Hole.wav><40.33099><371.6829><0.1956522><1><2395.331><482.6829><-240.3553><-80.35535><0><0.3173914, SPOT><SO_WAT-LilDrips.ogg><765.3994><283.5772><0.1847826><1><2897.399><180.5772><-211.3553><-83.35535><0><0.3173914, 
+FadePalette: 0, 0, 0.0326087, 0.04347826

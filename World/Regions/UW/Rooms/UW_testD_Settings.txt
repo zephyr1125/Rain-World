@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 0.423913
+Palette: 5
+Effects: Flies-0.2065217-0-0, 
+FadePalette: 3, 0.25, 0.25, 0.25, 0.25

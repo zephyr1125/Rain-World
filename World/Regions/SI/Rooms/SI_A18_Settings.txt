@@ -1,0 +1,10 @@
+Template: SI_SettingsTemplate_Inside
+DangerType: FloodAndRain
+Clouds: 0.1956522
+Grime: 0.1521739
+Palette: 2
+EffectColorA: 10
+EffectColorB: 2
+Effects: SkyAndLightBloom-0.1195652-20-20, 
+PlacedObjects: Mushroom><505.8296><145.4335><-501~348~2~3, Mushroom><486.8595><133.6674><-442~256~2~3, Mushroom><523.9319><138.8331><-509~164~2~3, 
+FadePalette: 8, 0.423913

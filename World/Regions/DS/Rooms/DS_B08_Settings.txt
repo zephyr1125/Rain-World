@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.7608696
+Grime: 0.3478261
+Palette: 4
+AmbientSounds: OMNI><SO_WAT-DripTap.ogg><827.0363><637.9467><0.25><1, OMNI><SO_WAT-LilDrips.ogg><648.3156><637.689><0.4021739><1, 
+FadePalette: 8, 0.173913, 0.2065217

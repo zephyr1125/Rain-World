@@ -1,0 +1,7 @@
+Template: UW_SettingsTemplate_Underhang
+CeilingDrips: 0.5760869
+Palette: 16
+EffectColorA: 18
+Effects: None-0-38-8, ExtraLoudThunder-0.6847826-302-13, 
+PlacedObjects: LightFixture><2881.902><640.121><RedLight~-379.6795~-18~57, LightFixture><2708.114><220.388><RedLight~17.32051~-10~73, LightFixture><2221.093><325.8729><RedLight~17.32051~-10~19, LightSource><408.0969><427.1749><0.4782609~Environment~0~100~-85~-417.3974~1~0, LightSource><1212.617><430.8379><0.5326087~Environment~0~100~50~86.60254~1~0, LightSource><1768.175><429.8466><0.6521739~Environment~0~100~50~86.60254~1~0, LightFixture><1462.943><674.3014><RedLight~17.32051~-10~46, DangleFruit><274.2634><492.5504><-375~62~2~3, DangleFruit><460.1927><480.4417><-550~-17~2~3, DangleFruit><663.4803><485.199><-748~-113~2~3, 
+FadePalette: 17, 0.4565217, 0.5760869, 0.6413044

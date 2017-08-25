@@ -1,0 +1,8 @@
+Template: NONE
+Grime: 0.4021739
+BkgDroneVolume: 0.2469565
+Palette: 5
+EffectColorA: 10
+PlacedObjects: CentipedeAttractor><1132.621><353.341><-381~151, InsectGroup><486.6992><144.7679><-98~23~-659~-96~Ant~1, 
+AmbientSounds: OMNI><AM_IND-Warehouse02.ogg><775.884><396.837><0.5434783><0.5891304, SPOT><SO_IND-HeatDuct.ogg><770.3654><276.6634><0.4347826><1><342.3654><214.6634><-75.35535><-36.35535><0><0.4260871, 
+FadePalette: 20, 0.326087, 0.326087

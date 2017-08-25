@@ -1,0 +1,188 @@
+{"frames": {
+
+"RegionGate_BigScrew.png":
+{
+	"frame": {"x":213,"y":2,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"RegionGate_Block1.png":
+{
+	"frame": {"x":213,"y":60,"w":22,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":90},
+	"sourceSize": {"w":22,"h":90}
+},
+"RegionGate_Block2.png":
+{
+	"frame": {"x":111,"y":152,"w":22,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":90},
+	"sourceSize": {"w":22,"h":90}
+},
+"RegionGate_Block3.png":
+{
+	"frame": {"x":135,"y":152,"w":22,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":90},
+	"sourceSize": {"w":22,"h":90}
+},
+"RegionGate_Block4.png":
+{
+	"frame": {"x":159,"y":152,"w":22,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":90},
+	"sourceSize": {"w":22,"h":90}
+},
+"RegionGate_Bolt.png":
+{
+	"frame": {"x":2,"y":242,"w":12,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":12},
+	"sourceSize": {"w":12,"h":12}
+},
+"RegionGate_CenterTrackA.png":
+{
+	"frame": {"x":80,"y":188,"w":16,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":60},
+	"sourceSize": {"w":16,"h":60}
+},
+"RegionGate_CenterTrackB.png":
+{
+	"frame": {"x":237,"y":60,"w":16,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":126},
+	"sourceSize": {"w":16,"h":126}
+},
+"RegionGate_ClampA1.png":
+{
+	"frame": {"x":183,"y":62,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":20},
+	"sourceSize": {"w":22,"h":20}
+},
+"RegionGate_ClampA2.png":
+{
+	"frame": {"x":183,"y":84,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":20},
+	"sourceSize": {"w":22,"h":20}
+},
+"RegionGate_ClampB1.png":
+{
+	"frame": {"x":183,"y":106,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":20},
+	"sourceSize": {"w":22,"h":20}
+},
+"RegionGate_ClampB2.png":
+{
+	"frame": {"x":93,"y":128,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":20},
+	"sourceSize": {"w":22,"h":20}
+},
+"RegionGate_Cog.png":
+{
+	"frame": {"x":153,"y":2,"w":58,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":58},
+	"sourceSize": {"w":58,"h":58}
+},
+"RegionGate_Hand.png":
+{
+	"frame": {"x":135,"y":43,"w":11,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":18},
+	"sourceSize": {"w":11,"h":18}
+},
+"RegionGate_Heater.png":
+{
+	"frame": {"x":80,"y":2,"w":71,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":15,"w":71,"h":39},
+	"sourceSize": {"w":98,"h":67}
+},
+"RegionGate_Pansar1.png":
+{
+	"frame": {"x":2,"y":2,"w":37,"h":238},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":238},
+	"sourceSize": {"w":37,"h":238}
+},
+"RegionGate_Pansar2.png":
+{
+	"frame": {"x":41,"y":2,"w":37,"h":238},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":238},
+	"sourceSize": {"w":37,"h":238}
+},
+"RegionGate_PansarLock.png":
+{
+	"frame": {"x":213,"y":44,"w":34,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":14},
+	"sourceSize": {"w":34,"h":14}
+},
+"RegionGate_PansarSegment.png":
+{
+	"frame": {"x":93,"y":152,"w":14,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":26},
+	"sourceSize": {"w":14,"h":26}
+},
+"RegionGate_Pixel.png":
+{
+	"frame": {"x":16,"y":242,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1,"h":1}
+},
+"RegionGate_TrackA.png":
+{
+	"frame": {"x":80,"y":62,"w":11,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":123},
+	"sourceSize": {"w":11,"h":123}
+},
+"RegionGate_TrackB.png":
+{
+	"frame": {"x":98,"y":188,"w":11,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":60},
+	"sourceSize": {"w":11,"h":60}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "regionGate.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0ead32cc139ed444f261857012d28ee7:a7d5404a41c2bb10aa093342ada8ac0a:3040a27ef47b734471058e415aa070a2$"
+}
+}

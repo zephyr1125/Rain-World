@@ -1,0 +1,7 @@
+Template: NONE
+BkgDroneVolume: 0.2469565
+Palette: 5
+PlacedObjects: KarmaFlower><524.4401><283.5592><262~-235~5~7, ProjectedImagePosition><409.8><470.9994><, CustomDecal><330.085><202.0689><-7~295~320~315~269~-44~-398~-19~0.1847826~1~0~BigOrangeFaceA~0.7065217~0.4456522~0.7065217~0.4456522~0.7065217~0.4456522~0.7065217~0.4456522, CustomDecal><461.6064><265.3306><-13~139~97~192~88~-17~-476~-261~0~1~0~WhiteTag~1~0.4456528~1~0.4456528~1~0.4456528~0~0.4456528, CustomDecal><370.3146><277.8107><-31~102~163~84~95~-32~179~-294~0~1~0~junkGraffiti2~0.5~0.3695652~0.5~0.3695652~0.5~0.3695652~0.5~0.3695652, 
+AmbientSounds: SPOT><Basic Mech.ogg><803.0524><163.557><0.1630435><1><447.0524><132.557><-70.35535><-68.35535><0><0.3608697, 
+Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>710.945<tB>217.0444<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>pos<tB>449.945<tB>260.0444<tA>handlePos<tB>-55.35535<tB>-50.35535, 
+FadePalette: 20, 0.2065217

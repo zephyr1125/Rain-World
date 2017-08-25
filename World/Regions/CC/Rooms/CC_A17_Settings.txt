@@ -1,0 +1,6 @@
+Template: CC_SettingsTemplate_Inside
+DangerType: FloodAndRain
+RandomItemSpearChance: 1
+EffectColorA: 0
+PlacedObjects: ScavengerTreasury><650.7121><122.1964><-101~202, LanternOnStick><260.5591><216.8097><25~-171, LanternOnStick><778.9004><164.6319><-18~-102, LanternOnStick><798.619><208.9108><-40~-161, LanternOnStick><235.5723><177.9082><30~-102, CustomDecal><127.8325><1.43219><-18~102~751~101~747~-3~-210~202~0~0.1086956~0~Scav Wedges~0.5652174~0~0.4891304~0~0~0.8913044~0~1, CustomDecal><468.6921><618.3054><167~29~142~-659~-7~-656~-305~-437~0.6630435~0.6847826~0~Scav Wedges2~0.9239131~0~0.1195652~0.7826087~0.1521739~0.5652174~0.5~0, CustomDecal><361.5692><461.4144><-7~60~457~48~446~-8~134~-359~0~0~0~ScavMark WingedOrb~1~0.3695652~0.2826087~0.3695652~1~0.6630435~0.01086957~1, 
+FadePalette: 8, 0.5760869

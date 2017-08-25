@@ -1,0 +1,9 @@
+Template: UW_SettingsTemplate_Wall
+DangerType: None
+Clouds: 0
+Palette: 28
+Effects: Flies-0-20-20, Fog-0.01086957-22-73, AboveCloudsView-1-23-139, 
+PlacedObjects: LightSource><814.925><287.5646><0.2934783~Environment~-117~206~-73~243.6025~1~0, 
+AmbientSounds: SPOT><SO_WAT-LilDrips.ogg><707.072><369.0634><0.2065217><1><760.072><419.0634><-249.3553><-52.35535><0><0.3173914, 
+FadePalette: 29, 0.1847826
+WetTerrain: OFF

@@ -1,0 +1,5 @@
+Clouds: 0.1847826
+BkgDroneVolume: 0.2569565
+PlacedObjects: PuffBall><315.1287><515.341><0~0~2~3, PuffBall><331.9199><543.8167><0~0~2~3, PuffBall><374.3384><521.1321><0~0~2~3, CentipedeAttractor><443.4341><195.8282><-220~-83, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><830.5884><645.6794><0.3695652><0.7065217, OMNI><AM_ENV-LightWind.ogg><647.1044><645.6706><0.3804348><0.6282609, SPOT><AM_ENV-Outside.ogg><754.8037><480.2884><0.3586957><1><361.8037><595.2884><-80.35535><-71.35535><0><0.2739132, 
+FadePalette: 8, 0.3369565

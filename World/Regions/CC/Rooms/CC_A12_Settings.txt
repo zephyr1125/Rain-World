@@ -1,0 +1,7 @@
+Template: CC_SettingsTemplate_Inside
+Clouds: 0.1413043
+BkgDroneVolume: 0.2869565
+Palette: 6
+PlacedObjects: VultureGrub><560.8522><335.3848><-665~223~1~15, DeadVultureGrub><592.3407><331.0717><-411~227~10~12, DeadVultureGrub><328.937><353.6791><-434~76~10~12, 
+AmbientSounds: SPOT><AM_ENV-NatWind.ogg><784.3524><295.3282><0.25><0.8434783><716.3524><376.3282><-122.3553><-16.35535><0><0.2304349, 
+FadePalette: 8, 0.4021739

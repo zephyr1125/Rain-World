@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.2282609
+Grime: 0.3152174
+BkgDroneVolume: 0
+Palette: 13
+Effects: LightBurn-0.25-20-20, RockFlea-0.4891304-16-96, 
+PlacedObjects: DangleFruit><2815.802><407.4711><-910~159~2~3, DangleFruit><2875.383><429.4119><-962~55~2~3, DangleFruit><2205.956><411.1951><-297~-6~2~3, DangleFruit><2735.413><418.5698><-833~-102~2~3, DangleFruit><2435.533><415.1972><-534~-194~2~3, DataPearl><1710.464><304.4468><-491~-279~0~0~0~0, DataPearl><1673.403><322.675><-187~-300~0~0~0~0, ProjectedImagePosition><1615.414><439.385><, CustomDecal><1796.408><302.6272><-70~222~1191~231~1250~16~150~-396~0.5326087~0.7065217~0~AwfulLongB&W~0~0.9347826~0~0.9347826~0~0.9347826~0.5326087~0.9347826, InsectGroup><2501.155><393.8238><65~220~0~0~Moth~0.173913, CustomDecal><73.80847><370.5577><0~40~714~40~712~-17~-39~-414~0.3586957~1~0~CanWorm~0.7282609~0~0.3695652~0~0~0.9782609~0~1, CustomDecal><843.4414><362.9422><81~-1~84~92~13~102~-1014~-32~0.3478261~1~0~WhiteJunkScribble~0.2065217~0.3586957~0~0.3586957~0.3913043~0.3586957~0~1, CustomDecal><1396.95><334.7375><5~145~154~146~143~-3~-365~-63~0.5869565~1~0~RoundBlack~0.09782609~0~0.4456522~0~0.8478261~0~0.4347826~0, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><833.6956><644.4582><0.4347826><0.9413043, OMNI><SO_WAT-DripTap.ogg><657.4359><643.3239><0.326087><1, OMNI><SO_NAT-LilDrips.ogg><479.7049><644.0552><0.1521739><1, 
+Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>1<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1076.619<tB>559.0987<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>1895.619<tB>360.0987<tA>handlePos<tB>-180.3553<tB>-206.3553, Spot<tA>event<tB>BringPlayerGuideToRoom<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1076.322<tB>258.8405<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>2538.322<tB>371.8405<tA>handlePos<tB>-157.3553<tB>-137.3553, 
+FadePalette: 10, 0.7717391, 0.75, 0.7065217

@@ -1,0 +1,7 @@
+Template: NONE
+CeilingDrips: 0.9456522
+BkgDroneVolume: 0
+Palette: 4
+EffectColorA: 2
+AmbientSounds: OMNI><SO_WAT-OpenFlow.ogg><837.3613><652.3942><0.3152174><1, SPOT><SO_WAT-RunningWater.ogg><57.34906><495.1737><0.423913><1><237.3491><320.1737><-139.3553><-49.35535><0><0.2304349, SPOT><SO_WAT-LightFlow.ogg><777.6958><295.7908><0.5326087><1><223.6958><642.7908><-49.35535><-56.35535><0><0.1760871, 
+FadePalette: 8, 0.1847826

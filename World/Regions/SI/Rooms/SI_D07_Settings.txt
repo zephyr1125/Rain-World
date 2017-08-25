@@ -1,0 +1,4 @@
+Effects: Flies-0.1086956-38-126, 
+PlacedObjects: InsectGroup><234.8309><361.1829><-120~316~0~0~StandardFly~0.3913043, InsectGroup><871.5719><408.591><-78~277~0~0~StandardFly~0.2173913, InsectGroup><2163.813><470.6898><-164~259~0~0~StandardFly~0.3804348, InsectGroup><949.8977><1278.578><-73~108~0~0~Wasp~0.1086545, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><657.0612><645.934><0.3369565><1, DIR><AM_ENV-Outside.ogg><754.2889><477.4462><0.4456522><1><169.7449><0, 
+FadePalette: 18, 0.06521739, 0.06521739, 0, 0

@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.9021739
+Grime: 0.2065217
+BkgDroneVolume: 0.326087
+Palette: 16
+Effects: BkgOnlyLightning-0.3043478-20-20, 
+FadePalette: 17, 0.6630435

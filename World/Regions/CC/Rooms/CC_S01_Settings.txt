@@ -1,0 +1,4 @@
+Template: CC_SettingsTemplate_Inside
+Grime: 0.1521739
+AmbientSounds: SPOT><SO_IND-Fridge.ogg><741.6847><367.0767><0.2391304><1><225.6847><368.0767><-67.35535><-13.35535><0><0.3717393, 
+FadePalette: 8, 0.4347826

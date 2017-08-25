@@ -1,0 +1,9 @@
+Template: HI_SettingsTemplate_Inside
+Clouds: 0.2717391
+Grime: 0.3152174
+BkgDroneVolume: 0.2469565
+Palette: 5
+EffectColorA: 10
+EffectColorB: 2
+PlacedObjects: SuperJumpInstruction><689.0615><280.5668><137~1~87~-11~26~-26, InsectGroup><417.8252><195.4353><-124~251~-516~59~Moth~0.8586956, CustomDecal><295.0601><145.8126><17~441~481~438~472~-23~-352~-263~0.2934783~0.4673913~0~CaterPillar~0.1630435~0~0.5434783~0~0.4021739~0.6195652~0~0.4891304, CustomDecal><330.0349><200.303><4~103~303~132~312~-52~-317~117~0.5978261~1~0~WhiteJunkArrows~0.423913~0~0.4891304~0.1847826~0.3695652~0.5652174~0.25~1, 
+FadePalette: 20, 0.3695652

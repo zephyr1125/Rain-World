@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.3043478
+Palette: 5
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><831.9324><644.0821><0.3043478><0.7847826, 
+FadePalette: 12, 0.5108696

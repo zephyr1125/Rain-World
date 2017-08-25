@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+Clouds: 0
+Grime: 0
+BkgDroneVolume: 0
+Palette: 24
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.2173913-20-75, SunBlock-0-19-141, Bloom-0.8369565-19-201, SSSwarmers-0.2065217-282-20, 
+PlacedObjects: LightSource><454.8011><355.0566><0.1304348~White~-595~307~50~86.60254~0~1, LightSource><56.633><255.9122><1~Environment~-14~188~50~86.60254~1~0, LightSource><962.801><524.98><1~Environment~-83~155~50~86.60254~1~0, SpotLight><153.6941><109.808><18~531~676~544~550~48, CoralCircuit><416.8><376.7509><-21~116, CoralNeuron><590.9168><107.1396><-18~223, CoralNeuron><185.4276><263.658><257~25, CoralStem><833.9683><285.3026><-204~103, CoralCircuit><554.5958><384.0744><0~100, WallMycelia><170.4458><277.041><0~100, WallMycelia><838.631><246.5893><0~100, 
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><831.3334><655.1106><0.5><1, SPOT><AM_IND-DeepHum.ogg><72.09741><501.3253><0.4130435><1><491.0974><377.3253><-131.3553><-140.3553><0><0.2847827, OMNI><SO_SFX-Heartbeat2.ogg><654.5776><656.8514><0.5108696><0.8826087, SPOT><SO_SFX-Celia.ogg><651.2262><265.3014><0.09782609><1.430435><474.2262><373.3014><-128.3553><-127.3553><0><0.2304349, 
+FadePalette: 17, 0

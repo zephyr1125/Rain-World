@@ -1,0 +1,10 @@
+Clouds: 0.2826087
+Grime: 0.2934783
+BkgDroneVolume: 0.2769565
+EffectColorA: 9
+EffectColorB: 7
+Effects: Flies-0.09782609-20-20, 
+PlacedObjects: LightSource><395.439><357.4347><0.6521739~Environment~0~100~50~86.60254~1~0, CustomDecal><664.3756><543.3434><-35~135~403~152~388~3~-690~-259~0.3478261~1~0~Long Tag~0.5434783~0.4021739~1~0~0.8152174~0.4673913~0.5~0.5978261, CustomDecal><1799.305><314.0449><-25~503~263~565~211~-129~-276~79~0~0.6630435~0~RustB3~0.5~0.7282609~0.7391304~0.7282609~0~0.7282609~0~0.7282609, CustomDecal><351.4107><-2.369171><0~394~553~365~544~-14~-361~-3~0.6413044~1~0~Rust1~0.7282609~1~0.7282609~1~0.2065217~1~0.2717391~1, InsectGroup><1110.764><25.05049><135~112~129~17~StandardFly~0.1086956, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><746.1904><578.5612><0.4130435><0.6673913, SPOT><AM_IND-ElectricHum01.ogg><785.749><296.7><0.3152174><1><390.7489><346.7><-45.35535><-36.35535><0><0.328261, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_1 - Urban Jungle<eA>vol<eB>0.2999997<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>45.65217<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>611.3611<tB>594.4163<tA>fireChance<tB>0.4565217<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>1670.361<tB>255.4163<tA>handlePos<tB>-338.3553<tB>68.64465, 
+FadePalette: 8, 0.07608695, 0.07608695

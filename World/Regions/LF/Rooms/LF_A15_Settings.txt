@@ -1,0 +1,5 @@
+CeilingDrips: 0.5326087
+Grime: 0.3586957
+PlacedObjects: PuffBall><411.7717><218.0511><-395~74~1~1, PuffBall><317.9156><187.3621><-293~25.00002~1~1, DangleFruit><820.3882><319.8342><-11~-253~2~3, DangleFruit><853.8584><292.4181><-5~-321~2~3, PuffBall><392.6165><150.6489><-393~-31~1~3, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><813.1721><633.6018><0.4021739><0.823913, OMNI><SO_NAT-LilDrips.ogg><625.8201><613.1627><0.2608696><1, 
+FadePalette: 8, 0.4782609

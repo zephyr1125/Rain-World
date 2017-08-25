@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0.326087
+Palette: 25
+EffectColorB: 12
+Effects: ZeroG-0.6847826-20-20, ZeroGSpecks-0.5760869-20-89, BrokenZeroG-1-282-21, CorruptionSpores-0.8804348-287-88, 
+PlacedObjects: LightFixture><901.3467><543.1284><RedLight~17.32051~-10~50, LightFixture><27.80139><172.0236><RedLight~17.32051~-10~97, Corruption><925.3507><329.1169><17~184, Corruption><88.13556><385.6471><13~197, Corruption><430.307><94.6974><27~127, Corruption><426.4425><598.1915><59~68, CorruptionTube><410.601><107.6167><51~507, CorruptionTube><123.698><527.4719><266~-408, CorruptionTube><936.9531><373.0556><-462~230, CorruptionTube><464.1774><115.0924><499~133, CorruptionDarkness><446.2094><104.1958><42~119, CorruptionDarkness><413.6188><604.9109><53~-123, LightSource><526.5697><20.31256><1~Environment~0~100~50~86.60254~1~0, LightSource><833.3918><39.35907><0.5760869~Environment~0~100~50~86.60254~1~0, CorruptionDarkness><66.75421><406.7><183~122, Corruption><863.8181><554.1669><-102~-53, 
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><831.1999><649.4939><0.5><1, SPOT><SO_SFX-Heartbeat2.ogg><70.83344><504.8607><0.4673913><0.9217392><512.8334><357.8607><-269.3553><-222.3553><0><0.3065219, 
+FadePalette: 17, 0.3043478

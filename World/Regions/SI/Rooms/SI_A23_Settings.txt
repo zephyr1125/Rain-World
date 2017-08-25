@@ -1,0 +1,10 @@
+Clouds: 0.2717391
+Grime: 0.4021739
+BkgDroneVolume: 0.2608696
+Palette: 2
+EffectColorA: 10
+EffectColorB: 2
+Effects: SkyDandelions-0.6956522-20-20, 
+PlacedObjects: DataPearl><848.6318><635.6005><0~0~0~0, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><748.3058><516.058><0.2065217><0.7847826, 
+FadePalette: 18, 0.1630435

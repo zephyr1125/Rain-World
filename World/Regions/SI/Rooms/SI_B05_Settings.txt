@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.3043478
+BkgDroneVolume: 0.2608696
+Palette: 2
+EffectColorB: 2
+Effects: Flies-0.326087-20-20, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><740.0717><478.1867><0.3586957><0.8043478, OMNI><AM_ENV-CricketsWnd.ogg><736.0631><546.9288><0.4565217><1, 
+FadePalette: 18, 0.1847826, 0.1630435

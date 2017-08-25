@@ -1,0 +1,10 @@
+Template: SB_SettingsTemplate_Temple
+DangerType: None
+Palette: 17
+EffectColorA: 15
+Effects: VoidMelt-0.07608695-20-20, 
+PlacedObjects: LightSource><539.3171><413.1689><1~EffectColor1~-496~-37~50~86.60254~0~0, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><842.1661><638.8615><0.4347826><1, OMNI><AM_SUB-MysticCave2.ogg><666.9418><637.0565><0.326087><0.7847826, OMNI><SO_NAT-LilDrips.ogg><491.9966><640.45><0.173913><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NA_32 - Else1<eA>vol<eB>0.3652171<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>12<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>465.5845<tB>515.8622<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>185.5845<tB>495.8622<tA>handlePos<tB>-140.3553<tB>-87.35535, 
+FadePalette: 21, 0.1630435
+RoomSpecificScriptActive: ON

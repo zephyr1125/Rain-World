@@ -1,0 +1,4 @@
+DangerType: Flood
+BkgDroneVolume: 0
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><832.1908><651.941><0.2717391><1, OMNI><AM_SUB-CaveTone.ogg><656.9767><653.4486><0.3369565><1, 
+FadePalette: 8, 0.1956522

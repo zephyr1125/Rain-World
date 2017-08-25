@@ -1,0 +1,6 @@
+RainIntensity: 0
+RumbleIntensity: 0.2065217
+Palette: 18
+PlacedObjects: LightFixture><52.60358><531.3638><RedLight~-32.6795~32~57, LightFixture><639.554><549.1926><RedLight~-475.6795~26~5, SuperStructureFuses><552.9138><56.31956><231~14, SuperStructureFuses><391.0566><55.94933><24~23, SuperStructureFuses><231.8644><44.35301><29~21, SuperStructureFuses><93.11798><45.66154><18~19, LightSource><51.86792><141.3499><1~Environment~0~100~50~86.60254~1~0, LightSource><868.4663><267.4471><1~Environment~0~100~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><827.3224><644.3136><0.3043478><0.9413043, SPOT><SO_SFX-Data5.ogg><773.1768><233.5934><0.4673913><1><676.1768><63.59344><-118.3553><-45.35534><0><0.1, SPOT><AM_IND-DeepHum.ogg><104.1612><141.6316><0.3478261><1><-9.838806><331.6316><-94.35535><-49.35535><0><0.1978262, 
+FadePalette: 17, 0.9130435

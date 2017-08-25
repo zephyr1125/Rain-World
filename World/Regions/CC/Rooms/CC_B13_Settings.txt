@@ -1,0 +1,2 @@
+PlacedObjects: InsectGroup><453.7271><1445.199><0~100~0~0~Wasp~0.3369565, 
+FadePalette: 15, 0.423913, 0.3913043

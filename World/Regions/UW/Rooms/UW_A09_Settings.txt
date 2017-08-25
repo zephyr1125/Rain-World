@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.4130435
+Grime: 0
+BkgDroneVolume: 0
+Palette: 16
+EffectColorA: 5
+EffectColorB: 4
+Effects: Lightning-0.2391304-20-20, ElectricDeath-0.1521739-18-77, 
+PlacedObjects: DangleFruit><730.1185><438.8389><-847~-152~2~3, DangleFruit><608.803><407.6929><-706~149~2~3, DangleFruit><653.6753><489.8463><-762~-21~2~3, KarmaFlower><625.8574><292.8313><-735~95~5~7, LightFixture><323.8046><545.2072><RedLight~-87.6795~35~40, LightFixture><812.0764><488.9348><RedLight~39.32056~-462~26, FirecrackerPlant><528.3897><223.6431><-651~-38~2~3, FirecrackerPlant><761.5661><216.5787><-891~-121~2~3, FirecrackerPlant><687.1351><251.0862><-814~-235~2~3, DangleFruit><449.6991><456.231><-297~-444~2~3, DangleFruit><781.5979><452.6744><-368~-444~2~3, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><491.5502><634.0075><0.3804348><0.7847826, OMNI><AM_RAIN-QuietThunder.ogg><670.1208><638.3473><0.4347826><0.8630434, OMNI><SO_WAT-RainishDrips.ogg><855.6781><638.4089><0.3804348><1.019565, SPOT><AM_IND-Warehouse02.ogg><61.81531><503.1733><0.4456522><1><567.8153><359.1733><-326.3553><-38.35535><0><0.3500001, SPOT><SO_NAT-LilDrips.ogg><241.6899><506.8126><0.3152174><1><648.6899><171.8126><-208.3553><-57.35535><0><0.404348, SPOT><SO_IND-Humm.ogg><752.147><209.6357><0.4347826><1><292.147><581.6357><-154.3553><-32.35535><0><0.3065219, 
+FadePalette: 17, 0.6086956

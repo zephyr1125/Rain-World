@@ -1,0 +1,7 @@
+Template: SU_SettingsTemplate_Inside
+Clouds: 0
+Grime: 0.25
+PlacedObjects: LightSource><297.6627><657.6162><1~Environment~0~100~50~86.60254~1~0, ProjectedImagePosition><338.7881><603.9464><, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><759.1984><590.9744><0.3586957><0.3934783, SPOT><AM_IND-ElectricHum02.ogg><782.8247><278.6855><0.2282609><1><299.8247><703.6855><-49.35535><-39.35535><0><0.3391306, 
+Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>712.8327<tB>213.8904<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>420.8327<tB>540.8904<tA>handlePos<tB>-444.3553<tB>-228.3553, 
+FadePalette: 8, 0.3695652

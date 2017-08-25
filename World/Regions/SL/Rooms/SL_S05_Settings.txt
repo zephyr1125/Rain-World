@@ -1,0 +1,5 @@
+DangerType: Flood
+CeilingDrips: 0.6630435
+BkgDroneVolume: 0
+AmbientSounds: OMNI><waterGurgleLOOP1.wav><745.424><552.1514><0.2282609><0.6869565, OMNI><AM_WAT-Sea02.ogg><752.6169><478.8994><0.2608696><0.6869565, SPOT><SO_WAT-LilDrips.ogg><777.571><276.437><0.2065217><1><269.571><442.437><-77.35535><-32.35535><0><0.2195653, 
+FadePalette: 8, 0.173913

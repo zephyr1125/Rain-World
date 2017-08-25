@@ -1,0 +1,9 @@
+Template: SS_SettingsTemplate_Corrupt
+DangerType: None
+Clouds: 1
+Grime: 0
+Palette: 23
+EffectColorB: 12
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.3152174-19-80, 
+PlacedObjects: LightFixture><245.3011><223.9434><RedLight~17.32051~-10~11, LightFixture><803.0575><109.5543><RedLight~17.32051~-10~100, LightSource><90.31158><579.933><0.7608696~Environment~-99~-68~59~-163.3975~1~0, LightSource><805.8076><642.1953><0.7826087~Environment~-25~116~-246~-122.3975~1~0, Corruption><490.6969><70.71492><59~125, Corruption><894.6764><200.8443><15~210, Corruption><453.4499><610.4932><0~100, CorruptionTube><913.4064><356.1248><-390~276, CorruptionTube><577.8273><114.3156><274~4, CorruptionTube><-223.6615><204.6794><0~100, CorruptionTube><919.4194><177.6436><-495~439, CorruptionDarkness><510.8217><92.15945><48~189, CorruptionDarkness><872.9467><213.0366><-102~137, CorruptionDarkness><469.7764><601.8018><46~-95, 
+AmbientSounds: SPOT><SO_SFX-Heartbeat2.ogg><775.8232><495.3436><0.3804348><0.9021739><611.8232><373.3436><-102.3553><-216.3553><0><0.2630436, 

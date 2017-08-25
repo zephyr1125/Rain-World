@@ -1,0 +1,9 @@
+Template: SI_SettingsTemplate_Inside
+Clouds: 0.1086956
+Grime: 0.2282609
+Palette: 3
+EffectColorA: 10
+EffectColorB: 13
+Effects: SkyAndLightBloom-0.08695652-20-20, 
+PlacedObjects: DataPearl><679.5629><1359.747><0~0~0~0, 
+FadePalette: 2, 0.1521739, 0.1521739

@@ -1,0 +1,6 @@
+Template: NONE
+Grime: 0.1086956
+BkgDroneVolume: 0
+Palette: 17
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><830.5569><648.6979><0.423913><1, OMNI><AM_SUB-BlankState.ogg><653.1877><647.8099><0.3152174><1, 
+FadePalette: 21, 0.2065217, 0.1413043, 0.05434782

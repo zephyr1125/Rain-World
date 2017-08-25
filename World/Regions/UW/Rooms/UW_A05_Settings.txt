@@ -1,0 +1,9 @@
+DangerType: Thunder
+Clouds: 0.3478261
+Grime: 0.07608695
+BkgDroneVolume: 0
+Palette: 16
+Effects: Lightning-0.7173913-20-20, GreenSparks-0.2608696-26-81, ExtraLoudThunder-0.5543478-23-140, ElectricDeath-0.6086956-280-20, 
+PlacedObjects: LightSource><702.1886><378.6903><0.4456522~Environment~0~100~50~86.60254~1~0, LightSource><265.6462><438.8635><0.423913~Environment~0~100~50~86.60254~1~0, LightSource><34.43958><567.5637><0.6195652~Environment~0~100~279.6883~24.94836~1~0, 
+AmbientSounds: SPOT><SO_IND-HeatDuct.ogg><743.1381><215.6447><0.3478261><1><531.7203><277.3117><-306.3553><-13.35535><0><0.5347828, SPOT><SO_IND-Humm.ogg><73.7442><501.4499><0.326087><1><816.6767><629.0858><-73.35535><-21.35535><0><0.1869565, 
+FadePalette: 17, 0.3043478

@@ -1,0 +1,8 @@
+DangerType: FloodAndRain
+CeilingDrips: 0.5543478
+Grime: 0.04347826
+BkgDroneVolume: 0
+PlacedObjects: VoidSpawnEgg><356.4489><590.7287><-395~148~2~3~3, VoidSpawnEgg><705.6867><617.3217><0~0~2~3~3, VoidSpawnEgg><215.9415><502.0576><0~0~2~3~3, 
+AmbientSounds: SPOT><Weird Deep Hole.wav><748.132><381.8385><0.1630435><1><455.132><503.8385><-267.3553><134.6447><0><0.7086958, SPOT><SO_WAT-LilDrips.ogg><62.30151><501.7747><0.3152174><1><215.3015><1232.775><-218.3553><2.644653><0><0.2413045, SPOT><SO_WAT-MoreDrips.ogg><761.8609><268.1664><0.2934783><1><759.8609><1112.167><-145.3553><-79.35535><0><0.3500001, OMNI><SO_WAT-DripTap.ogg><828.6424><636.6096><0.2065217><1, OMNI><AM_ENV-CityTone.ogg><822.7294><568.6989><0.2173913><0.726087, 
+Triggers: Spot<tA>event<tB>StopMusicEvent<eA>songName<eB>NO SONG<eA>prio<eB>1<eA>type<eB>0<eA>fadeOut<eB>226.0867<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1085.782<tB>603.6974<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>483.782<tB>1277.684<tA>handlePos<tB>-355.3553<tB>-61.35535, 
+FadePalette: 0, 0.1304348, 0.09782609, 0.0326087

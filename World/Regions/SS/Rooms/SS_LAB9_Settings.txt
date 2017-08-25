@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Clouds: 0
+Grime: 0
+BkgDroneVolume: 0
+Palette: 24
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.2934783-21-81, SunBlock-1-17-146, Bloom-0.6739131-17-213, SSSwarmers-0.1413043-279-21, 
+PlacedObjects: LightSource><462.9174><361.4321><0.1086956~White~-626~303~50~86.60254~0~1, LightSource><124.9802><291.801><1~Environment~-59~159~50~86.60254~1~0, LightSource><909.379><564.9093><1~Environment~-146~109~50~86.60254~1~0, SpotLight><150.8867><166.396><-21~506~629~473~463~-13, CoralNeuron><425.1317><258.8495><335~92, WallMycelia><814.7035><346.1945><0~100, WallMycelia><664.5735><59.65601><-9~129, WallMycelia><166.1683><232.9326><0~100, CoralCircuit><528.0826><322.3179><1~79, CoralCircuit><450.9298><380.4124><-6~80, CoralNeuron><193.8217><236.0633><153~57, CoralStemWithNeurons><485.902><592.1743><155~-274, CoralStem><624.9851><47.19943><-89~171, 
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><832.6114><653.1442><0.5><1, SPOT><AM_IND-DeepHum.ogg><723.6931><304.8021><0.3695652><1><488.6931><378.8021><-109.3553><-142.3553><0><0.1, 

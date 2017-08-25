@@ -1,0 +1,6 @@
+Template: NONE
+Grime: 0.3152174
+BkgDroneVolume: 0
+Palette: 12
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><745.3003><568.1936><0.3586957><0.9413043, 
+FadePalette: 8, 0.75, 0.7391304

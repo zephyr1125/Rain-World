@@ -1,0 +1,2 @@
+Template: NONE
+BkgDroneVolume: 0.2769565

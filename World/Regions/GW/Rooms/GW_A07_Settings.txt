@@ -1,0 +1,8 @@
+Template: GW_SettingsTemplate_Inside
+Clouds: 0.1195652
+BkgDroneVolume: 0.2769565
+EffectColorA: 13
+EffectColorB: 6
+PlacedObjects: InsectGroup><299.7532><405.7><3~53~0~0~Ant~0.7173913, InsectGroup><595.2607><129.6997><-233~216~0~0~RockFlea~1, 
+AmbientSounds: SPOT><SO_WAT-LilDrips.ogg><64.61206><507.3948><0.2282609><1><407.6121><215.3948><-155.3553><-34.35535><0><0.4478262, SPOT><SO_WAT-MoreDrips.ogg><64.25018><392.3><0.3369565><1><807.2502><244.3><-117.3553><-88.35535><0><0.3826087, SPOT><SO_WAT-OpenFlow.ogg><767.6607><414.071><0.2934783><0.9608696><1013.661><466.071><-145.3553><5.644653><0><0.328261, 
+FadePalette: 8, 0.2391304

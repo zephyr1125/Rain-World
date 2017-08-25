@@ -1,0 +1,9 @@
+Clouds: 0.3478261
+Grime: 0.3913043
+BkgDroneVolume: 0.2469565
+Palette: 9
+EffectColorA: 10
+EffectColorB: 2
+PlacedObjects: WaterNut><410.3454><161.0742><54~181~2~3, WaterNut><470.0519><136.222><0~0~2~3, WaterNut><429.7427><167.4499><0~0~2~3, WaterNut><830.8153><129.6732><0~0~2~3, InsectGroup><636.9906><119.6998><-395~102~-166~393~RockFlea~0.5, InsectGroup><776.1105><241.6067><6~192~-659~86~StandardFly~0.25, CustomDecal><821.591><457.3813><-16~-412~182~-370~172~7~-808~-58~0~1~0~Rust1~1~1~1~1~0.6304348~1~0~1, CustomDecal><826.128><175.3463><7~78~101~90~107~-6~-923~-160~0.326087~1~0~ScavMark~1~0.1956522~1~0.1956522~0.4130435~0.1956522~1~0.1956522, 
+Triggers: Spot<tA>event<tB>BringPlayerGuideToRoom<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>986.8971<tB>373.3285<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>pos<tB>978.8971<tB>203.3285<tA>handlePos<tB>-35.35534<tB>-35.35534, 
+FadePalette: 15, 0.4130435

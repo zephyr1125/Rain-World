@@ -1,0 +1,8 @@
+DangerType: Rain
+Clouds: 0.1630435
+BkgDroneVolume: 0
+Palette: 0
+Effects: LightBurn-0.6304348-39-154, 
+PlacedObjects: DangleFruit><86.42456><532.0648><-314~-121~2~3, DangleFruit><111.0509><469.0193><-300~-195~2~3, DangleFruit><447.0512><532.2281><-231~-322~2~3, CustomDecal><652.442><326.1941><-34~60~223~91~229~-2~-393~-65~0.2934783~1~0~WhiteJunkScribble~0.3369565~0~0.5760869~1~0.07608695~1~0.6086956~0.3152174, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><716.5507><564.9832><0.5543478><0.7847826, SPOT><AM_WIN-SubWnd.ogg><267.3777><110.0961><0.4456522><1><982.3777><617.0961><-343.3553><10.64465><0><0.5239132, OMNI><AM_ENV-LightWind.ogg><712.3002><637.7578><0.2717391><0.8043478, 
+FadePalette: 10, 0.75

@@ -1,0 +1,5 @@
+Grime: 0.08695652
+BkgDroneVolume: 0
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><696.5519><674.2773><0.4782609><0.8434783, SPOT><SO_NAT-LilDrips.ogg><52.63391><525.8372><0.3369565><1><173.6339><49.83716><-208.3553><-20.35534><0><0.4913043, SPOT><SO_WAT-LilDrips.ogg><230.3906><524.1422><0.5><0.8826087><778.3906><65.14224><-176.3553><-63.35534><0><0.502174, SPOT><AM_WIN-SubWnd.ogg><863.1542><370.8774><0.4021739><1><851.1542><599.8774><-303.3553><-76.35535><0><0.5673915, OMNI><SO_WAT-LilDrips.ogg><869.2744><648.0515><0.1956522><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_58 - Lantern Mice<eA>vol<eB>0.3000004<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>3<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>634.1292<tB>559.1594<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>pos<tB>446.1292<tB>385.1594<tA>handlePos<tB>-282.3553<tB>-265.3553, 
+FadePalette: 0, 0

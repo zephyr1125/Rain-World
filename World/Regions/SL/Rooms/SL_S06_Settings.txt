@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.3695652
+Grime: 0.05434782
+BkgDroneVolume: 0
+Palette: 13
+PlacedObjects: SuperStructureFuses><431.1797><611.4373><112~72, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><828.4357><648.0743><0.2608696><1, OMNI><SO_WAT-LilDrips.ogg><830.2277><571.0513><0.2608696><1, 
+FadePalette: 8, 0.7282609

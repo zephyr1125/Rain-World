@@ -1,0 +1,8 @@
+Template: SL_SettingsTemplate_Sewer
+DangerType: Flood
+BkgDroneVolume: 0.2769565
+EffectColorB: 6
+Effects: Fog-0.5869565-20-20, 
+PlacedObjects: CustomDecal><556.9921><24.30017><-33~737.9239~189.7536~716.9239~142.7536~0~-411~-130~0.07608695~1~0~Rust1~1~1~1~1~0~1~0~1, 
+AmbientSounds: SPOT><SO_WAT-RunningWater.ogg><63.44745><500.4681><0.5><1><636.4474><80.46806><-170.3553><-52.35535><0><0.3065219, SPOT><SO_WAT-Splashes.ogg><243.3859><501.9142><0.423913><1><646.3859><623.9142><-60.35535><-56.35535><0><0.1869567, 
+FadePalette: 8, 0.2934783

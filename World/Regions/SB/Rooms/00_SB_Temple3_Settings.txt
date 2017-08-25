@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.1304348
+Palette: 20
+Effects: VoidMelt-0.06521739-20-20, 
+FadePalette: 8, 0.5760869, 0.5760869, 0.5869565, 0.5978261

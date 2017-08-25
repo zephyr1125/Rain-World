@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.08695652
+Palette: 20
+EffectColorA: 13
+Effects: VoidMelt-0.5652174-20-20, 
+PlacedObjects: LightFixture><2738.948><362.7801><HolyFire~17.32051~-10~56, LightFixture><245.3209><366.1609><HolyFire~17.32051~-10~73, LightFixture><1507.821><355.3389><HolyFire~17.32051~-10~98, 
+FadePalette: 8, 0.5, 0.5, 0.5, 0.5, 0.5

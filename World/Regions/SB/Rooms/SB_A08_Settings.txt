@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Grime: 0.08695652
+BkgDroneVolume: 0
+Palette: 17
+EffectColorA: 13
+Effects: VoidMelt-0.25-20-20, 
+PlacedObjects: LightFixture><612.1487><370.8663><HolyFire~17.32051~-10~37, TempleGuard><462.7139><403.8033><, 
+AmbientSounds: OMNI><AM_SUB-MysticCave1.ogg><829.9792><648.3011><0.4565217><0.8043478, OMNI><AM_SUB-BlankState.ogg><647.7098><648.8041><0.3913043><1, SPOT><SO_NAT-Fire.ogg><69.31439><495.8106><0.3804348><1><616.3144><358.8106><-71.35535><-83.35535><0><0.4913045, SPOT><SO_NAT-Burning.ogg><76.80225><367.2797><0.3043478><1><609.8022><361.2797><-74.35535><-45.35535><0><0.3717391, 

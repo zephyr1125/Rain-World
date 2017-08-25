@@ -1,0 +1,5 @@
+BkgDroneVolume: 0.2769565
+Effects: Fog-0.3152174-10-19, 
+PlacedObjects: DataPearl><424.1859><2029.074><0~0~0~0, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><852.3806><631.4104><0.3586957><0.6869565, OMNI><AM_WIN-MedWind.ogg><776.9497><248.4891><0.3478261><1, 
+FadePalette: 4, 0.1304348, 0.06521739, 0.01086957

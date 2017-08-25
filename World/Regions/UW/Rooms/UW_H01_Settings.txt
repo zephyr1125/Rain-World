@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+Clouds: 0
+Grime: 0.2391304
+BkgDroneVolume: 0
+Palette: 30
+EffectColorA: 13
+EffectColorB: 2
+Effects: RoofTopView-1-20-20, 
+PlacedObjects: DataPearl><3408.718><86.06303><66~292~0~0~16~0, NoSpearStickZone><-33.07202><280.8413><-138~97, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><833.3021><652.5293><0.5><1, OMNI><AM_ENV-LightWind.ogg><647.051><654.0204><0.5217391><0.9021739, SPOT><AM_ENV-WallHum.ogg><44.60425><480.4207><0.3152174><1><57.60425><26.42065><-213.3553><272.6447><0><0.4260871, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NA_28 - Stargazer<eA>vol<eB>0.3434786<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>2<eA>rest<eB>7<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>635.1751<tB>558.6854<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>pos<tB>7539.175<tB>261.6855<tA>handlePos<tB>-364.3553<tB>-2.355347, 
+WetTerrain: OFF

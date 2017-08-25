@@ -1,0 +1,12 @@
+Template: CC_SettingsTemplate_Inside
+DangerType: Rain
+CeilingDrips: 0.5
+Clouds: 0.2173913
+Grime: 0.2608696
+BkgDroneVolume: 0.2869565
+Palette: 6
+Effects: Fog-0.1521739-20-20, 
+PlacedObjects: KarmaFlower><472.9149><157.1132><283~-11~5~7, CustomDecal><244.4467><873.7044><-32~-827~436~-824~437~22~-362~-1006~0.07608695~1~0~RustB3~0.5326087~1~0.5~1~0.25~1~0~1, CustomDecal><334.6268><112.9047><-1~480~363~172~241~-20~432~237~0~1~0~GummiWorms~0~1~0.8586956~1~0~1~0~1, CustomDecal><334.819><215.6651><3~185~279~304~283~-3~-363~-11.99998~0.5760869~0.9565217~0~GreySnoopy~0.4673913~0~0.2934783~0~0~1~1~1, CustomDecal><386.1981><74.27774><-10~370~184~375~169~-21~-634~337~0.1956522~1~0~RunningWhite~0.5652174~1~0.5652174~1~0.5652174~1~0.5652174~1, CustomDecal><396.6518><214.6742><9~166~174~172~167~-8~-458~127~0.2282609~1~0~Tall B&W~0.3913043~0~0.5652174~0~0.2717391~0.1630435~0.6847826~0.2826087, 
+AmbientSounds: SPOT><SO_IND-HVAC.ogg><789.5877><308.3203><0.2717391><1><463.5877><119.3203><-171.3553><63.64466><0><0.6217393, SPOT><AM_IND-Utility02.ogg><117.4548><485.3052><0.2826087><1><491.4548><1167.312><-135.3553><0.6446533><0><0.3826087, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_48 - Wind Chimes<eA>vol<eB>0.2565215<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>6<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1069.306<tB>567.942<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>502.3058<tB>1220.942<tA>handlePos<tB>-153.3553<tB>-160.3553, 
+FadePalette: 8, 0.4673913, 0.4782609

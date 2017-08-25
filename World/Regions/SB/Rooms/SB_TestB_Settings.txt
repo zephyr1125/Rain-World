@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.1847826
+Grime: 0.1195652
+Palette: 21
+EffectColorB: 18
+Effects: LightBurn-0.2934783-20-20, 
+FadePalette: 1, 0.04347826, 0.04347826

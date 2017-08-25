@@ -1,0 +1,5 @@
+Template: SS_SettingsTemplate_Corrupt
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+FadePalette: 17, 0.5108696

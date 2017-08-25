@@ -1,0 +1,8 @@
+Clouds: 0.4456522
+BkgDroneVolume: 0.2869565
+Palette: 6
+EffectColorA: 10
+EffectColorB: 3
+Effects: Fog-0.2391304-20-20, 
+PlacedObjects: CustomDecal><428.8882><525.3555><20~49~64~39~46~-8~-541~-286~0~1~0~ScavMark Ghost~1~0~1~0~1~0.3586957~1~0.4021739, 
+FadePalette: 15, 0.5652174

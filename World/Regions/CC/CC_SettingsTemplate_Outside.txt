@@ -1,0 +1,15 @@
+DangerType: Rain
+CeilingDrips: 0.5
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.4347826
+Grime: 0.2826087
+BkgDroneVolume: 0.2869565
+Palette: 6
+EffectColorA: 10
+EffectColorB: 2
+Effects: Fog-0.2391304-23-82, Flies-0.1521739-20-20, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><715.1912><562.5588><0.3582609><1, OMNI><AM_ENV-LightWind.ogg><711.424><492.3486><0.3817391><1, 

@@ -1,0 +1,3 @@
+BkgDroneVolume: 0.2869565
+EffectColorB: 2
+FadePalette: 10, 0.0326087, 0.1413043, 0

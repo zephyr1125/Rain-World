@@ -1,0 +1,8 @@
+Template: SU_SettingsTemplate_Inside
+DangerType: Flood
+Clouds: 0.07608695
+Grime: 0.2173913
+BkgDroneVolume: 0.2769565
+PlacedObjects: DangleFruit><662.884><297.3984><-493~167~3~5, DangleFruit><530.8164><357.3293><-369~211~2~5, DangleFruit><350.6378><283.6655><-469~207~2~5, DangleFruit><564.9489><394.9794><115~117~2~3, DangleFruit><627.6628><353.82><78~88~2~3, CustomDecal><363.9821><156.3008><0~40~-52~40~-58~-1~-322~41~0~1~0~Ghostling1~1~0.5869565~0.369478~0.5869565~0.3043478~0.5869565~0.5~0.5869565, 
+AmbientSounds: SPOT><SO_IND-Fridge.ogg><772.2277><372.4488><0.2065217><1><531.2277><146.4488><-53.35535><-41.35535><0><0.4152175, 
+FadePalette: 8, 0.173913

@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.09782609
+Grime: 0.4130435
+BkgDroneVolume: 0
+RandomItemDensity: 0
+EffectColorA: 0
+EffectColorB: 6
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><829.5946><647.1762><0.2826087><0.7065217, SPOT><AM_IND-Utility02.ogg><54.65521><491.6262><0.423913><1><427.6552><512.6262><-85.35535><-87.35535><0><0.2195653, SPOT><AM_IND-Utility02.ogg><50.16882><370.8572><0.423913><0.9413043><737.1688><288.8572><-76.35535><-88.35535><0><0.1543478, OMNI><SO_WAT-DripTap.ogg><652.919><643.107><0.3043478><0.8434783, 
+FadePalette: 8, 0.3695652
+RoomSpecificScriptActive: ON

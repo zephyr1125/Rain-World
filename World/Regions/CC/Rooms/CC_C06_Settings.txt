@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.3369565
+BkgDroneVolume: 0.2869565
+Palette: 6
+EffectColorA: 10
+Effects: Fog-0.1956522-0-0, 
+FadePalette: 15, 0.4565217, 0.4565217, 0.4673913

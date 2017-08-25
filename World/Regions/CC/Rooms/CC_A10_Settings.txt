@@ -1,0 +1,9 @@
+Clouds: 0.4021739
+Grime: 0.3369565
+BkgDroneVolume: 0.2869565
+Palette: 6
+EffectColorB: 2
+Effects: Fog-0.173913-20-20, Flies-0.1413043-21-73, 
+PlacedObjects: UniqueDataPearl><461.3973><347.8669><-47~-143~0~0~2~0, 
+AmbientSounds: SPOT><SO_IND-Generator.ogg><858.8719><50.90363><0.1413043><1><661.8719><220.9036><-130.3553><35.64465><0><0.502174, 
+FadePalette: 15, 0.4565217

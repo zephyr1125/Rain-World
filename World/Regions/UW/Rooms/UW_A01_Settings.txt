@@ -1,0 +1,7 @@
+Template: UW_SettingsTemplate_Wall
+Clouds: 0.25
+Grime: 0.25
+Palette: 29
+Effects: Fog-0.3152174-3-113, Flies-0-15-59, AboveCloudsView-1-20-8, 
+PlacedObjects: CustomDecal><502.0504><344.0128><-34~140~478~142~462~-3~-384~-12~0.3043478~1~0~CrudeGrey~0.5108696~0.4565217~0.8152174~0.4565217~0.07608695~0.8695652~0.5217391~1, 
+AmbientSounds: SPOT><SO_WAT-LilDrips.ogg><764.6356><366.836><0.3043478><1><723.6356><242.836><-142.3553><-37.35535><0><0.404348, 

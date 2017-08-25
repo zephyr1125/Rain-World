@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.0326087
+BkgDroneVolume: 0
+Palette: 17
+EffectColorA: 13
+EffectColorB: 21
+Effects: VoidMelt-0.5-20-20, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><834.9047><642.8768><0.5><1, OMNI><AM_SUB-BlankState.ogg><652.8085><641.1923><0.4673913><1, 
+FadePalette: 1, 0.0326087, 0.0326087, 0, 0

@@ -1,0 +1,27 @@
+Palette: 10
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.2
+overseersMin: 0
+overseersMax: 3
+Subregion: Shaded Citadel
+Subregion: Memory Crypts
+playerGuideOverseerSpawnChance: 1.0
+Room Setting Templates: PitchBlack, DarkSun
+Room_Attr: SH_A13: LanternMouse-3,
+Room_Attr: SH_A14: LanternMouse-3,
+Room_Attr: SH_A11: LanternMouse-3,
+Room_Attr: SH_A12: LanternMouse-3,
+Room_Attr: SH_A05: LanternMouse-4,
+Room_Attr: SH_C10: LanternMouse-3,
+Room_Attr: SH_A21: LanternMouse-3,
+Room_Attr: SH_A06: LanternMouse-4,
+Room_Attr: SH_B02: LanternMouse-3,
+Room_Attr: SH_B03: LanternMouse-3,
+Room_Attr: SH_C04: LanternMouse-3,
+Room_Attr: SH_E05: LanternMouse-2,
+Room_Attr: SH_A26: LanternMouse-1,Overseer-1,
+Room_Attr: SH_A19: LanternMouse-2,
+Room_Attr: SH_C08: BlackLizard-3,

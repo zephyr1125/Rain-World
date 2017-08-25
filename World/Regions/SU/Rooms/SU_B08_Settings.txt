@@ -1,0 +1,9 @@
+Clouds: 0.2282609
+Grime: 0.4021739
+BkgDroneVolume: 0.2769565
+EffectColorA: 9
+EffectColorB: 8
+Effects: Flies-0.1413043-20-20, 
+PlacedObjects: FlyLure><630.1686><105.5341><0~0~4~9, CustomDecal><93.80835><361.6929><-65~441~220~528~204~-12~-272~-348~0~1~0~RustB1~0.8913044~1~0.5~1~0.2065217~1~0~1, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><757.942><522.0586><0.326087><1, SPOT><AM_IND-Utility01.ogg><320.3331><549.0681><0.3478261><1><21.33313><346.0681><76.64465><-88.35535><0><0.295652, 
+FadePalette: 8, 0.02173913, 0.02173913

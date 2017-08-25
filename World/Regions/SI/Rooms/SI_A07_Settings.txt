@@ -1,0 +1,5 @@
+Clouds: 0.2065217
+BkgDroneVolume: 0.2608696
+PlacedObjects: DataPearl><409.6669><146.3896><-525~385~0~0~0~1, UniqueDataPearl><546.3074><143.0584><-660~257~0~0~4~0, KarmaFlower><478.3671><303.8378><0~0~5~7, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><749.2><521.5049><0.3043478><0.8826087, SPOT><AM_WIN-StrongWnd2.ogg><786.4443><219.0579><0.2282609><1.03913><51.44434><142.0579><-277.3553><53.64465><0><0.3826088, 
+FadePalette: 18, 0.1521739

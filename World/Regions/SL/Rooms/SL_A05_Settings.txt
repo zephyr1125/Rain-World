@@ -1,0 +1,5 @@
+Template: SL_SettingsTemplate_Sewer
+PlacedObjects: DataPearl><147.911><565.3813><-253~-98~0~0~0~0, DangleFruit><678.7917><578.4456><-175~-253~2~3, DangleFruit><723.5715><593.1868><-253~-178~2~3, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><845.1892><403.5649><0.4891304><0.7847826><272.1892><444.5649><-131.3553><-19.35535><0><0.3826088, SPOT><Basic Mech.ogg><838.0535><260.2125><0><0.9021739><352.0535><384.2125><-80.35535><-33.35535><0><0.3173914, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_18 - The Captain<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>7<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>789.6877<tB>430.81<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>381.6877<tB>297.8099<tA>handlePos<tB>-173.3553<tB>-105.3553, 
+FadePalette: 8, 0.3369565

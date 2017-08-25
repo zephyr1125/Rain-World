@@ -1,0 +1,8 @@
+Template: UW_SettingsTemplate_Underhang
+Clouds: 0.09782609
+Grime: 0.1521739
+BkgDroneVolume: 0
+Effects: ElectricDeath-0.3478261-22-143, 
+PlacedObjects: DangleFruit><1755.603><674.6148><-844~18~2~3, DangleFruit><1834.199><656.5567><-912~-64~3~5, DangleFruit><2068.55><649.7516><-1145~-132~2~3, DangleFruit><1933.13><699.4019><-1011~-287~3~5, 
+AmbientSounds: SPOT><AM_ENV-WallHum.ogg><62.1969><498.2148><0.4782609><0.823913><12.09062><369.3784><253.6447><-244.3553><0><0.3826088, SPOT><AM_WIN-HowlingWnd.ogg><241.4482><502.2768><0.3695652><0.8043478><2092.619><526.3831><39.64465><-297.3553><0><0.404348, SPOT><SO_WAT-RainishDrips.ogg><803.55><293.4988><0.3152174><1><1476.55><641.4988><-335.3553><-69.35535><0><0.3608697, 
+FadePalette: 17, 0.326087, 0.2391304

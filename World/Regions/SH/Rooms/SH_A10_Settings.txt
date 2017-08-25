@@ -1,0 +1,7 @@
+DangerType: Rain
+Clouds: 0
+Grime: 0
+Effects: FireFlies-0.1956522-20-20, 
+PlacedObjects: VoidSpawnEgg><762.8048><404.2065><0~0~2~3~0, VoidSpawnEgg><596.8055><486.7032><0~0~2~3~0, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><689.0716><643.9367><0.5108696><0.8043478, SPOT><AM_WIN-MedWind.ogg><19.67889><399.8395><0.423913><0.9021739><-103.3211><284.8395><-174.3553><-157.3553><0><0.2413045, SPOT><AM_WIN-MedWind.ogg><791.5502><255.2419><0.4347826><1><1106.55><281.2419><-85.35535><-144.3553><0><0.4369566, 
+FadePalette: 0, 0.1195652

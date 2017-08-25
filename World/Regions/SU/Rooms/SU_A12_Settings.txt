@@ -1,0 +1,8 @@
+Template: SU_SettingsTemplate_Inside
+Clouds: 0.1630435
+BkgDroneVolume: 0.2769565
+EffectColorB: 2
+PlacedObjects: ProjectedImagePosition><842.3027><502.4429><, KarmaFlower><334.9265><479.064><-428~13.99997~5~7, CustomDecal><107.162><349.6328><-71~282~1015~361~836~-174~-140~-202~0~1~0~Long Tag~0.5~0.6304348~0.5~0.6304348~0~1~0.5~0.07608695, CustomDecal><649.5583><366.3087><444~308~120~327~-607~129~107~-360~0.0326087~1~0~Boxheads~0.5~0.7934783~0.5~0.423913~0.5~0.423913~0.5~0.423913, CustomDecal><307.8101><411.4372><-20~189~399~187~402~-24~22~-418~0.6195652~0.7173913~0~ODA~0.2608696~0.326087~0.7934783~0.2173913~0.7391304~0.3913043~0.7173913~0, InsectGroup><527.9376><427.06><-237~112~0~0~RockFlea~0.5, InsectGroup><247.3973><539.8284><132~129~0~0~Ant~0.3804348, 
+AmbientSounds: OMNI><AM_IND-Utility01.ogg><698.5266><623.0518><0.3586957><0.6478261, OMNI><SO_WAT-LilDrips.ogg><521.9282><625.3134><0.3804348><1, 
+Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>687.4924<tB>214.1999<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>258.4924<tB>467.1999<tA>handlePos<tB>-69.35535<tB>-54.35535, 
+FadePalette: 8, 0.4673913

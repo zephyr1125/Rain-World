@@ -1,0 +1,8 @@
+DangerType: None
+BkgDroneVolume: 0
+Palette: 17
+EffectColorA: 13
+Effects: VoidMelt-0.5543478-20-20, 
+PlacedObjects: LightFixture><1310.58><344.6833><HolyFire~-265.6795~343~65, LightFixture><1513.068><429.4176><HolyFire~-204.6795~256~58, LightFixture><1735.3><380.4995><HolyFire~17.32051~-10~75, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><831.6237><649.655><0.5><1, OMNI><AM_ENV-SubTerr.ogg><651.6985><648.2739><0.5><1, OMNI><SO_WAT-DripTap.ogg><473.0682><646.5833><0.2826087><1, SPOT><SO_NAT-Burning.ogg><62.25458><499.05><0.4673913><1><1307.255><345.05><-97.35535><-80.35535><0><0.2195653, SPOT><SO_NAT-Fire.ogg><65.66907><381.8569><0.4130435><1><1515.669><414.8569><-225.3553><-36.35535><0><0.3934784, SPOT><SO_NAT-Burning.ogg><730.4048><459.3766><0.3913043><1><1741.405><387.3766><-117.3553><-97.35535><0><0.2195653, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NA_38 - Else7<eA>vol<eB>0.4413043<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>1<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>0<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>354.3878<tB>525.605<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>1540.388<tB>265.605<tA>handlePos<tB>-298.3553<tB>-121.3553, 

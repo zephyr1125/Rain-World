@@ -1,0 +1,6 @@
+Clouds: 0.8913044
+BkgDroneVolume: 0.2769565
+Effects: Fog-0.6086956-0-0, 
+PlacedObjects: VoidSpawnEgg><818.8503><659.8827><-482~-323~2~3~1, VoidSpawnEgg><1830.68><695.3128><-76~-131~2~3~1, VoidSpawnEgg><1762.881><670.6508><-378~-450~2~3~1, InsectGroup><1913.105><270.8621><-137~115~0~0~RockFlea~0.3913043, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><755.9222><518.6016><0.3913043><0.8630434, SPOT><AM_WAT-Sea03.ogg><742.976><297.0515><0.3804348><1><1621.976><234.0515><-347.3553><-36.35535><0><0.3391306, OMNI><AM_WAT-Sea01.ogg><823.5414><636.0543><0.4456522><1, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_SL_SHORE<eA>vol<eB>0.3326084<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1059.456<tB>533.8048<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0, 

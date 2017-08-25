@@ -1,0 +1,5 @@
+Palette: 4
+EffectColorA: 3
+EffectColorB: 13
+PlacedObjects: WaterNut><703.7762><298.3017><0~0~2~3, WaterNut><634.358><304.8591><0~0~2~3, WaterNut><608.8586><316.332><0~0~2~3, WaterNut><727.9042><303.0744><0~0~2~3, KarmaFlower><453.3511><351.6336><0~0~5~7, 
+FadePalette: 8, 0.06521739

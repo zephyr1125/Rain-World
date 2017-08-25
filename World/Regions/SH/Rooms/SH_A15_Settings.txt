@@ -1,0 +1,7 @@
+Grime: 0
+BkgDroneVolume: 0
+Palette: 0
+Effects: RockFlea-0.6956522-20-20, 
+PlacedObjects: CustomDecal><52.9397><99.93677><-99~465~1015~576~923~-55~0~0~0.0326087~1~0~BlackRust1~1~1~1~1~1~1~1~1, 
+AmbientSounds: SPOT><SO_NAT-LilDrips.ogg><73.03479><256.447><0.1956522><1><134.0348><70.44698><-158.3553><8.644653><0><0.3608697, SPOT><SO_NAT-LilDrips.ogg><520.3281><525.4341><0.173913><1><751.3281><508.4341><-172.3553><-74.35535><0><0.4804349, OMNI><AM_ENV-CityTone.ogg><825.0684><652.688><0.3695652><0.7065217, OMNI><SO_WAT-DripTap.ogg><819.2394><570.6997><0.25><1, 
+FadePalette: 8, 0.7826087

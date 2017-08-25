@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+Clouds: 0.1521739
+Grime: 0.2934783
+Palette: 12
+EffectColorA: 15
+EffectColorB: 15
+PlacedObjects: LightFixture><1251.507><374.5501><RedLight~-85.6795~230~62, LightFixture><1702.303><459.2839><RedLight~-277.6795~144~30, LightFixture><2160.365><427.8977><RedLight~17.32051~-10~56, LightFixture><2745.665><276.4312><RedLight~17.32051~-10~10, 
+AmbientSounds: OMNI><SO_WAT-DripTap.ogg><825.28><607.4478><0.1630435><1, OMNI><AM_ENV-LightWind.ogg><644.3><610.9958><0.3152174><0.9021739, 
+FadePalette: 8, 0.2717391, 0.326087, 0.3586957

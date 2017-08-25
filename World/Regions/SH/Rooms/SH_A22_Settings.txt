@@ -1,0 +1,5 @@
+Grime: 0
+BkgDroneVolume: 0
+PlacedObjects: CosmeticSlimeMold2><293.5829><111.932><11~70, CosmeticSlimeMold2><385.8474><95.62068><48~72, CosmeticSlimeMold2><466.5024><99.55002><50~55, LightFixture><368.8278><107.1843><SlimeMoldLight~-417.6795~-143~82, CosmeticSlimeMold2><85.8158><230.0779><-15~116, CosmeticSlimeMold><70.76526><289.0506><11~54, SlimeMold><412.1521><108.9244><-231~-149~2~3, LightFixture><66.29828><247.6941><SlimeMoldLight~-168.6795~295~43, 
+AmbientSounds: SPOT><Weird Deep Hole.wav><725.0345><386.303><0.1956522><1><474.0345><52.2704><-220.3553><-21.35535><0><0.3826088, SPOT><AM_ENV-SubTerr.ogg><72.35663><320.8894><0.3152174><1><155.3566><584.8894><-162.3553><-73.35535><0><0.35, OMNI><AM_ENV-CityTone.ogg><836.846><646.6276><0.4130435><1, OMNI><SO_WAT-LilDrips.ogg><656.55><644.4989><0.3152174><1, 
+FadePalette: 0, 0

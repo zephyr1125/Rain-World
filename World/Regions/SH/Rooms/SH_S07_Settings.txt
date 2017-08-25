@@ -1,0 +1,5 @@
+CeilingDrips: 0.5543478
+BkgDroneVolume: 0
+Palette: 12
+AmbientSounds: SPOT><Weird Deep Hole.wav><742.1854><511.675><0.1847826><1><352.1854><169.675><-143.3553><-85.35535><0><0.1978262, OMNI><SO_WAT-DripTap.ogg><825.9442><648.5479><0.2826087><1, 
+FadePalette: 8, 0.9347826

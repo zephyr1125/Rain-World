@@ -1,0 +1,8 @@
+Clouds: 0.1956522
+Grime: 0.3804348
+BkgDroneVolume: 0.2869565
+Palette: 6
+Effects: Fog-0.326087-20-20, 
+PlacedObjects: GhostSpot><571.6066><2268.581><, 
+AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><745.0768><264.9001><0.2173913><0.6282609, 
+FadePalette: 15, 0.7065217, 0.6739131, 0.6413044

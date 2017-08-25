@@ -1,0 +1,5 @@
+Template: NONE
+Grime: 0.1521739
+Palette: 13
+PlacedObjects: LightFixture><1529.68><392.913><RedLight~17.32051~-10~82, LightFixture><2070.671><627.3163><RedLight~17.32051~-10~33, LightFixture><1232.776><1492.448><RedLight~17.32051~-10~50, LightFixture><2084.178><1416.091><RedLight~17.32051~-10~0, LightFixture><2446.695><2238.208><RedLight~17.32051~-10~34, LightFixture><2757.3><961.245><RedLight~17.32051~-10~63, LightFixture><2458.113><481.8352><RedLight~17.32051~-10~54, LightFixture><943.421><2228.646><RedLight~17.32051~-10~86, LightFixture><136.4487><2248.772><RedLight~17.32051~-10~39, LightFixture><1545.618><1162.1><RedLight~17.32051~-10~13, LightFixture><1375.109><2140.141><RedLight~17.32051~-10~70, LightFixture><2036.943><2245.192><RedLight~17.32051~-10~75, LightFixture><763.1588><1851.428><RedLight~17.32051~-10~31, LightFixture><370.949><1564.771><RedLight~17.32051~-10~49, 
+FadePalette: 8, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5108696, 0.5, 0.5

@@ -1,0 +1,8 @@
+DangerType: Rain
+Grime: 0
+BkgDroneVolume: 0
+Effects: Fog-0.2282609-22-110, LightBurn-0.09782609-24-58, FireFlies-0.1413043-28-6, 
+PlacedObjects: FlareBomb><266.8628><304.1455><0~0~2~3, FlareBomb><138.1323><333.9><0~0~2~3, FlareBomb><290.3002><223.7403><0~0~2~3, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><713.8941><673.6113><0.4347826><0.7847826, OMNI><AM_WIN-SubWnd.ogg><712.6947><594.5457><0.4456522><1, SPOT><OM.wav><56.42267><459.0656><0.2608696><0.9608696><-55.57733><180.0656><-110.3553><52.64465><0><0.2956522, SPOT><AM_ENV-NatWind.ogg><56.69452><340.2968><0.3478261><1><143.6945><574.2969><38.64465><-203.3553><0><0.4913045, OMNI><SO_WAT-LilDrips.ogg><710.1828><518.1884><0.1086956><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NA_17 - Dripping Time<eA>vol<eB>0.3652171<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>3<eA>rest<eB>5<eA>fadeIn<eB>78.26087<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>746.8214<tB>219.0632<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>439.8214<tB>352.0632<tA>handlePos<tB>-253.3553<tB>-186.3553, 
+FadePalette: 0, 0.04347826

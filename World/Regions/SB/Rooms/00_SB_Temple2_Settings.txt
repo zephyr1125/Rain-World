@@ -1,0 +1,7 @@
+Template: NONE
+Grime: 0.01086957
+Palette: 20
+EffectColorA: 13
+EffectColorB: 13
+Effects: VoidMelt-0-20-20, 
+FadePalette: 8, 0.8152174

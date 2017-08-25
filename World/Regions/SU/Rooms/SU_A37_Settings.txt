@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.08695652
+Grime: 0.06521739
+BkgDroneVolume: 0.2769565
+PlacedObjects: ProjectedImagePosition><215.1846><469.061><, CustomDecal><570.6237><408.6551><-49~89~234~173~286~8~-461~-347~0.4891304~1~0~junkGraffiti2~0~0.5543478~0.3183567~0.5543478~0.4782609~0.5543478~1~0.5543478, CustomDecal><765.3438><413.5733><-2~165~113~164~114~-1~-122~-382~0.6521739~1~0.4891304~WhiteEye~0.9130435~0.2717391~1~0.1847826~0.2934783~0.3586957~1~0.173913, CustomDecal><118.5132><396.0504><-147~217~531~306~454~-11~-226~-251~0.6413044~1~0~RustB3~0.5760869~1~0.6086956~1~0~1~0.4565217~1, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><760.8099><478.0621><0.4565217><0.7456522, 
+Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>700.05<tB>217.7509<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>514.05<tB>431.7509<tA>handlePos<tB>-92.35535<tB>-55.35535, 
+FadePalette: 8, 0.2391304

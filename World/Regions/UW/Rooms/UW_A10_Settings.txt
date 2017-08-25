@@ -1,0 +1,8 @@
+Clouds: 0.1413043
+Grime: 0.08695652
+BkgDroneVolume: 0
+Palette: 16
+EffectColorB: 5
+Effects: GreenSparks-0.08695652-20-20, Lightning-0.5652174-23-75, ElectricDeath-0.6304348-278-22, 
+PlacedObjects: LightSource><556.614><410.3669><0.5108685~Environment~0~100~-633~-166.3972~1~0, LightSource><791.9542><407.6943><0.5869565~Environment~0~100~-867.0015~-82.40121~1~0, Mushroom><399.1319><431.3386><-488.9999~55.99982~2~3, Mushroom><420.3721><421.6522><-502~-19~2~3, Mushroom><410.4792><434.1989><-505.0175~126.0254~2~3, SlimeMold><731.4685><403.4752><-284~-308~2~3, SlimeMold><670.8607><404.0624><-229~-384.9999~2~3, SlimeMold><636.0735><402.0646><-485~-182~2~3, CosmeticSlimeMold><673.6893><414.3076><-110~13, LightFixture><663.4148><406.4007><SlimeMoldLight~65.31927~-308.0002~20, 
+FadePalette: 17, 0.3043478

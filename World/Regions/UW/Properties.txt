@@ -1,0 +1,54 @@
+Palette: 16
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 1
+overseersMin: 4
+overseersMax: 8
+playerGuideOverseerSpawnChance: 0.0
+Subregion: The Leg
+Subregion: Underhang
+Subregion: The Wall
+Room Setting Templates: Leg, Underhang, Wall
+Room_Attr: GATE_UW_SS: Overseer-2,
+Room_Attr: GATE_SH_UW: Overseer-2,
+Room_Attr: UW_C08: Overseer-2,
+Room_Attr: UW_C07: Overseer-1,
+Room_Attr: UW_H01: Overseer-2,
+Room_Attr: UW_A14: Overseer-2,
+Room_Attr: UW_A12: PinkLizard-1,GreenLizard-1,BlueLizard-1,YellowLizard-1,WhiteLizard-1,RedLizard-1,BlackLizard-1,Salamander-1,
+Room_Attr: UW_F01: PinkLizard-2,GreenLizard-2,BlueLizard-2,YellowLizard-2,WhiteLizard-2,RedLizard-2,BlackLizard-2,Salamander-2,Overseer-3,
+Room_Attr: UW_A13: PinkLizard-2,GreenLizard-2,BlueLizard-2,YellowLizard-2,WhiteLizard-2,RedLizard-2,BlackLizard-2,Salamander-2,Overseer-3,
+Room_Attr: UW_E01: Overseer-4,
+Room_Attr: UW_A02: Overseer-4,
+Room_Attr: UW_J01: Overseer-3,
+Room_Attr: UW_A01: Overseer-4,
+Room_Attr: UW_D01: Overseer-4,
+Room_Attr: UW_D07: Overseer-3,
+Room_Attr: UW_D06: Overseer-2,
+Room_Attr: UW_C04: Overseer-2,
+Room_Attr: UW_D05: Overseer-2,
+Room_Attr: UW_A04: DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_C02: Overseer-2,
+Room_Attr: UW_A05: PinkLizard-2,GreenLizard-2,BlueLizard-2,YellowLizard-2,WhiteLizard-2,RedLizard-2,BlackLizard-2,Salamander-2,DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_C01: Overseer-2,
+Room_Attr: UW_A03: PinkLizard-2,GreenLizard-2,BlueLizard-2,YellowLizard-2,WhiteLizard-2,RedLizard-2,BlackLizard-2,Salamander-2,DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_J02: YellowLizard-4,Overseer-2,
+Room_Attr: UW_I01: YellowLizard-4,Overseer-2,
+Room_Attr: UW_S02: Overseer-2,
+Room_Attr: UW_A10: DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_A11: PinkLizard-2,GreenLizard-2,BlueLizard-2,YellowLizard-2,WhiteLizard-2,RedLizard-2,BlackLizard-2,Salamander-2,DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_A06: PinkLizard-2,GreenLizard-2,BlueLizard-2,YellowLizard-2,WhiteLizard-2,RedLizard-2,BlackLizard-2,Salamander-2,DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_E04: Overseer-2,
+Room_Attr: UW_A08: DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_C03: DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_D04: Overseer-2,
+Room_Attr: UW_B01: DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_D03: Overseer-2,
+Room_Attr: UW_A09: DaddyLongLegs-1,Overseer-2,
+Room_Attr: UW_E03: Overseer-2,
+Room_Attr: UW_E02: Overseer-2,
+Room_Attr: UW_A07: Overseer-2,
+Room_Attr: UW_C06: Overseer-2,
+Room_Attr: UW_D02: Overseer-2,

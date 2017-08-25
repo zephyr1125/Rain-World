@@ -1,0 +1,4 @@
+Template: SI_SettingsTemplate_Inside
+Palette: 2
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><692.8223><459.0635><0.423913><1><573.8223><377.0635><-64.35535><-58.35535><0><0.1760871, 
+FadePalette: 8, 0.423913

@@ -1,0 +1,11 @@
+Template: SS_SettingsTemplate_Corrupt
+DangerType: None
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0.326087
+Palette: 23
+EffectColorB: 12
+Effects: ZeroG-0.8043478-20-20, ZeroGSpecks-0.5760869-18-75, BrokenZeroG-1-280-22, CorruptionSpores-0.6956522-281-79, 
+PlacedObjects: LightSource><457.8805><355.9104><1~Environment~-244~205~50~86.60254~1~0, LightFixture><80.68927><233.6906><RedLight~17.32051~-10~29, LightFixture><869.5593><572.309><RedLight~17.32051~-10~36, LightSource><430.4128><-26.86615><0.5326087~Environment~0~100~50~86.60254~1~0, LightSource><13.46521><441.303><0.6304348~Environment~0~100~50~86.60254~1~0, Corruption><729.6793><66.08868><64~175, Corruption><117.3949><420.9201><-114~122, Corruption><897.6948><396.5451><0~100, CorruptionTube><721.1821><77.08276><193~277, CorruptionTube><890.4175><390.8593><-274~220, Corruption><654.126><621.4069><0~100, CorruptionTube><612.8426><52.32269><-439~281, CorruptionDarkness><753.5801><64.14444><-83~211, CorruptionDarkness><858.9189><398.6829><-105~-62, 
+AmbientSounds: SPOT><SO_SFX-Heartbeat2.ogg><786.3111><493.8157><0.4456522><0.823913><497.636><358.0889><-266.3553><-42.35535><0><0.3173914, 
+FadePalette: 17, 0.2282609

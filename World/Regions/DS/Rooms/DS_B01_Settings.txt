@@ -1,0 +1,7 @@
+BkgDroneVolume: 0
+Palette: 4
+EffectColorB: 6
+PlacedObjects: WaterNut><732.8942><434.3614><0~0~2~3, WaterNut><707.5267><438.3018><0~0~2~3, WaterNut><690.61><421.0829><0~0~2~3, 
+AmbientSounds: OMNI><SO_NAT-LilDrips.ogg><836.5687><651.3122><0.3695652><1, SPOT><SO_WAT-OpenFlow.ogg><764.942><252.944><0.2717391><0.9021739><1932.942><460.944><-50.35535><-95.35535><0><0.1869567, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_15 - Old Growth<eA>vol<eB>0.2673914<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>6<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>30.49042<tB>470.9498<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>315.4904<tB>454.9498<tA>handlePos<tB>-174.3553<tB>-124.3553, Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_15 - Old Growth<eA>vol<eB>0.2673914<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>6<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>288.4438<tB>474.558<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>1807.444<tB>453.558<tA>handlePos<tB>-196.3553<tB>-103.3553, 
+FadePalette: 8, 0.1304348, 0.1847826

@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.05434782
+Grime: 0.3478261
+BkgDroneVolume: 0.2769565
+EffectColorA: 9
+PlacedObjects: LightSource><401.698><1176.057><0.7065217~Environment~0~100~50~86.60254~1~0, LightSource><321.1292><1300.909><0.5652174~Environment~0~100~50~86.60254~1~0, LightSource><320.6905><252.9391><0.2934783~Environment~-32~152~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><789.3357><472.8641><0.326087><0.726087, OMNI><SO_IND-Turbine.ogg><760.9516><223.9441><0.2717391><1, SPOT><AM_IND-50hz.ogg><483.9495><598.4855><0.2826087><1><315.9495><1159.486><-34.35535><-36.35535><0><0.1, SPOT><AM_IND-50hz.ogg><579.642><521.9183><0.2934783><0.9804348><387.642><1156.918><-33.35535><-31.35535><0><0.1, SPOT><AM_IND-50hz.ogg><277.0974><520.1293><0.2717391><0.9804348><230.0974><1162.129><-35.35534><-35.35534><0><0.1, 
+Triggers: Spot<tA>event<tB>BringPlayerGuideToRoom<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>109.9342<tB>417.0779<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>2<tA>pos<tB>311.9342<tB>1043.078<tA>handlePos<tB>-85.35535<tB>-53.35535, 
+FadePalette: 8, 0.5, 0.5, 0.5

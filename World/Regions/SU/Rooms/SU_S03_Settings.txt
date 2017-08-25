@@ -1,0 +1,4 @@
+Template: SU_SettingsTemplate_Inside
+Grime: 0.09782609
+AmbientSounds: OMNI><Basic Mech.ogg><757.4195><162.8938><0.1521739><0.8630434, SPOT><Mech Basic.wav><764.8282><551.3976><0.4347826><0.7456522><295.8282><234.3976><-39.35535><-29.35535><0><0.4586958, 
+FadePalette: 4, 0.7717391

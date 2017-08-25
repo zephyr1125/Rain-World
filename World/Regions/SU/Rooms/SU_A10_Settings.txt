@@ -1,0 +1,9 @@
+Clouds: 0.173913
+Grime: 0.3478261
+BkgDroneVolume: 0.2769565
+EffectColorA: 2
+EffectColorB: 8
+Effects: Flies-0.09782609-20-20, 
+PlacedObjects: InsectGroup><754.6378><167.0844><-191~94~171~-169~GrassHopper~0.5, CustomDecal><512.9027><81.37085><-48~327~573~350~490~-19~-418~1~0.3043478~1~0.7065217~GhostGraffiti~0.5108696~0.01086957~0.9565217~0.2065217~0.173913~0.6195652~0~0.4891304, NoSpearStickZone><1045.115><549.8863><-155~78, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><756.8056><592.3079><0.3804348><0.6869565, 
+FadePalette: 8, 0.1195652

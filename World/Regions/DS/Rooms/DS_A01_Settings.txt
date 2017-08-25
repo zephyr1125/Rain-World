@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 4
+EffectColorB: 18
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><742.3232><523.1861><0.2826087><0.7847826, SPOT><SO_NAT-LilDrips.ogg><590.8341><595.3185><0.3369565><1><255.8341><271.3185><-159.3553><-12.35535><0><0.4369566, 
+FadePalette: 8, 0.1086956

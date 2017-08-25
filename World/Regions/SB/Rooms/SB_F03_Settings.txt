@@ -1,0 +1,12 @@
+Template: NONE
+Clouds: 0.6413044
+Grime: 0.1956522
+BkgDroneVolume: 0
+Palette: 14
+EffectColorA: 8
+EffectColorB: 18
+Effects: FireFlies-0.2826087-20-20, 
+PlacedObjects: DataPearl><214.6601><2626.38><-289~252~0~0~11~0, ReliableSpear><913.8312><2899.107><, ReliableSpear><998.5713><3091.34><, ReliableSpear><970.8922><2876.832><, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><856.5697><497.5865><0.4456522><1><1059.57><4202.586><-173.3553><-296.3553><0><0.5456523, SPOT><AM_ENV-NatWind.ogg><60.95178><495.0559><0.4021739><1><104.9518><4449.056><117.6447><-401.3553><0><0.3934782, SPOT><AM_ENV-Outside.ogg><234.9911><496.0502><0.4456522><0.7065217><576.9911><4531.051><-464.3553><-310.3553><0><0.828261, SPOT><AM_ENV-NatWind.ogg><51.30151><384.7255><0.4565217><0.823913><462.3015><3657.726><-254.3553><-172.3553><0><0.7195652, SPOT><AM_ENV-NatWind.ogg><46.67944><265.4371><0.4130435><0.726087><513.6794><2715.437><-301.3553><-208.3553><0><0.523913, SPOT><AM_ENV-NatWind.ogg><31.65765><134.1774><0.3695652><0.6869565><553.6577><2035.178><-259.3553><-204.3553><0><0.7086958, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_45 - Deep Energy<eA>vol<eB>0.267391<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>7<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>628.9656<tB>558.053<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>437.9656<tB>4145.053<tA>handlePos<tB>-412.3553<tB>6.644653, 
+FadePalette: 8, 0.2065217, 0.2608696, 0.2934783, 0.3369565, 0.3913043, 0.4565217

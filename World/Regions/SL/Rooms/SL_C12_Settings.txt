@@ -1,0 +1,6 @@
+DangerType: Flood
+CeilingDrips: 0.6304348
+Effects: RockFlea-0.1521739-281-117, 
+PlacedObjects: WaterNut><1264.316><340.6723><-345~221~2~3, WaterNut><1241.945><339.5577><-307~137~2~3, WaterNut><1222.649><332.617><-282~56~2~3, WaterNut><746.808><334.5587><-844~136~2~3, WaterNut><767.335><338.9312><-866~216~2~3, 
+FadePalette: 9, 0.6956522, 0.5869565, 0.4565217
+RoomSpecificScriptActive: ON

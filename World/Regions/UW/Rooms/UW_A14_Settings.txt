@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Clouds: 0.0326087
+Grime: 0.2934783
+Palette: 30
+Effects: AboveCloudsView-1-20-20, 
+PlacedObjects: GhostSpot><593.5597><552.3114><, NoSpearStickZone><-80.58911><346.3811><-110~155, NoSpearStickZone><819.8092><209.5601><-6~130, 
+WetTerrain: OFF

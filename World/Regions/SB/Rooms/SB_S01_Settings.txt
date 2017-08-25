@@ -1,0 +1,5 @@
+Template: SB_SettingsTemplate_Filter
+DangerType: None
+Grime: 0.06521739
+Palette: 17
+PlacedObjects: LightFixture><305.8066><527.949><RedLight~-170.6795~69~92, LightFixture><745.0292><593.5521><RedLight~17.32051~-10~54, 

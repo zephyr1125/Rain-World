@@ -1,0 +1,3 @@
+Clouds: 1
+Grime: 0.2717391
+FadePalette: 8, 0.3804348

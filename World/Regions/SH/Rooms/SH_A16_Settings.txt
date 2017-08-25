@@ -1,0 +1,6 @@
+CeilingDrips: 0.5760869
+Grime: 0
+BkgDroneVolume: 0
+Effects: VoidSpawn-0.08695652-20-20, 
+AmbientSounds: SPOT><Weird Deep Hole.wav><743.1703><388.8548><0.1304348><1><123.1703><458.8548><-199.3553><36.64465><0><0.4152175, SPOT><SO_WAT-LilDrips.ogg><754.4144><500.614><0.1630435><1><335.4144><517.614><-134.3553><32.64465><0><0.5130436, OMNI><SO_WAT-DripTap.ogg><832.8251><637.4031><0.2065217><1, 
+FadePalette: 0, 0

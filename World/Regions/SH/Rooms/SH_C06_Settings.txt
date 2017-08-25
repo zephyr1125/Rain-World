@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.326087
+Grime: 0
+Palette: 10
+Effects: FireFlies-0.2065217-40-195, LightBurn-0.2934783-20-20, 
+FadePalette: 0, 0.1521739, 0.1521739, 0.1521739

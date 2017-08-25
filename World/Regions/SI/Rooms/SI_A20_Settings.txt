@@ -1,0 +1,9 @@
+Template: SI_SettingsTemplate_Inside
+DangerType: FloodAndRain
+Clouds: 0.5
+Palette: 3
+EffectColorA: 10
+Effects: SkyAndLightBloom-0.1847826-20-20, 
+PlacedObjects: KarmaFlower><500.2><334.5001><0~0~5~7, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><755.5623><457.0689><0.3369565><1><440.5623><389.0689><-187.3553><-30.35535><0><0.6652175, 
+FadePalette: 2, 0.1521739

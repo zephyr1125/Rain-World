@@ -1,0 +1,6 @@
+Grime: 0.173913
+Palette: 4
+EffectColorA: 2
+PlacedObjects: UniqueDataPearl><147.1597><1447.12><0~0~0~0, 
+AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><786.3016><252.9751><0.2717391><1><48.30157><2249.975><-86.35535><-53.35535><0><0.2739132, 
+FadePalette: 8, 0.1521739, 0.2717391, 0.423913

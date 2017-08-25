@@ -1,0 +1,10 @@
+Template: SU_SettingsTemplate_Inside
+DangerType: Flood
+Clouds: 0
+Grime: 0.3804348
+BkgDroneVolume: 0.006521806
+RandomItemDensity: 0
+EffectColorB: 6
+PlacedObjects: DangleFruit><720.5573><233.5536><-464~264~2~3, DangleFruit><525.84><334.0714><-80~313~2~3, DangleFruit><570.816><257.8112><146~289~2~3, DangleFruit><253.0418><210.0544><0~0~2~3, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><665.2393><652.6997><0.2826087><0.7065217, OMNI><SO_WAT-DripTap.ogg><662.3217><572.5906><0.3043478><1, 
+FadePalette: 8, 0.3695652

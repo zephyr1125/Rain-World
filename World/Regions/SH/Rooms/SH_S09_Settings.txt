@@ -1,0 +1,2 @@
+BkgDroneVolume: 0
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><828.1578><637.6229><0.3804348><1, OMNI><SO_WAT-LilDrips.ogg><647.1877><633.4311><0.2065217><1, 

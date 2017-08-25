@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.1521739
+Grime: 0.3369565
+BkgDroneVolume: 0.2469565
+Palette: 5
+PlacedObjects: DangleFruit><528.9321><449.0826><36~123~2~3, DangleFruit><489.6957><488.0415><0~0~2~3, DangleFruit><388.696><460.5395><0~0~2~3, InsectGroup><458.1887><301.1838><-86~66~0~0~RockFlea~0.2282609, 
+AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><826.1883><641.9325><0.5><1, OMNI><AM_IND-Utility01.ogg><643.6929><640.5583><0.326087><1, SPOT><SO_WAT-LilDrips.ogg><749.8047><281.3076><0.3043478><1><455.8047><312.3076><-98.35535><-65.35535><0><0.3608697, 
+FadePalette: 20, 0.2717391

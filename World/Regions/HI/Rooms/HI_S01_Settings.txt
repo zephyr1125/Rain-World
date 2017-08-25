@@ -1,0 +1,7 @@
+Template: NONE
+Grime: 0.2173913
+Palette: 5
+EffectColorA: 2
+EffectColorB: 1
+AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><806.8074><416.3084><0.3478261><0.7652174, SPOT><Basic Mech.ogg><727.8119><163.0679><0.1847826><1.03913><480.8119><239.0679><-54.35535><-43.35535><0><0.3391306, 
+FadePalette: 8, 0.3586957

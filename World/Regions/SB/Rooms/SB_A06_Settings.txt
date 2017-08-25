@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: None
+Grime: 0.07608695
+Palette: 17
+EffectColorA: 13
+Effects: VoidMelt-0.2934783-20-20, 

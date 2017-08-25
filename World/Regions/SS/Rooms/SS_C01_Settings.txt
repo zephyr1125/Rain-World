@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0
+Grime: 0.1413043
+Palette: 13
+PlacedObjects: LightSource><3110.605><357.3624><1~Environment~-232~70~50~86.60254~1~0, LightSource><2183.44><-21.55911><1~Environment~385~147~50~86.60254~1~0, LightSource><1414.605><448.6704><1~Environment~-164~38~95~-30.39746~1~0, LightSource><-41.89014><110.5829><1~Environment~-190~58~50~86.60254~1~0, LightFixture><120.9097><5.870422><LightRod~17.32051~-10~30, LightFixture><2181.178><362.3445><RedLight~17.32051~-10~52, LightFixture><1452.638><703.3549><RedLight~17.32051~-10~37, LightFixture><1033.938><572.5696><RedLight~17.32051~-10~7, LightFixture><1752.558><326.055><RedLight~17.32051~-10~43, LightFixture><-37.86292><579.665><RedLight~17.32051~-10~71, LightFixture><2852.39><522.8926><RedLight~11.32056~65~59, LightSource><2769.194><-18.29831><1~Environment~-161~196~50~86.60254~1~0, LightSource><1700.619><-29.58936><1~Environment~-223~145~50~86.60254~1~0, LightSource><1172.198><-36.77802><1~Environment~-259~99~50~86.60254~1~0, LightSource><594.8097><-43.06152><1~Environment~-232~113~50~86.60254~1~0, LightFixture><550.8765><587.3427><RedLight~17.32051~-10~48, 
+FadePalette: 8, 0.8043478, 0.8043478, 0.8043478

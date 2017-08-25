@@ -1,0 +1,6 @@
+Template: NONE
+Grime: 0.2826087
+Palette: 4
+AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><761.7788><476.3021><0.2934783><0.7652174><827.7788><613.3021><-174.3553><36.64465><0><0.6869566, SPOT><SO_WAT-OpenFlow.ogg><422.4293><20.16147><0.2391304><0.7847826><23.42932><265.1615><-161.3553><9.644653><0><0.5239132, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_51 - Swaying Fronds<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>6<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>638.0625<tB>557.1899<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>402.0625<tB>303.19<tA>handlePos<tB>-272.3553<tB>-120.3553, 
+FadePalette: 8, 0.1956522

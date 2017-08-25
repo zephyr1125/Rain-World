@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+BkgDroneVolume: 0
+Palette: 10
+EffectColorA: 3
+EffectColorB: 13
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><836.7><641.751><0.3152174><0.7847826, OMNI><waterGurgleLOOP1.wav><663.6203><637.0902><0.2826087><0.9413043, SPOT><AM_IND-DeepHum.ogg><773.0338><313.5529><0.2608696><1><885.0337><385.5529><-13.35535><-126.3553><0><0.2195653, 
+FadePalette: 13, 0.3478261

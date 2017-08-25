@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.06521739
+BkgDroneVolume: 0
+Palette: 21
+PlacedObjects: DangleFruit><870.6143><270.853><0~0~2~3, DangleFruit><830.555><289.4556><66~50~2~3, DangleFruit><782.1709><296.1039><72~69~2~3, DangleFruit><176.3342><543.6118><-10~-248~2~3, DangleFruit><320.3106><572.5643><259~13~2~3, DangleFruit><214.6904><540.6887><-47~-130~2~3, Mushroom><248.3991><126.1167><-399~346~2~3, Mushroom><189.9847><148.0506><-335~250~2~3, Mushroom><152.4188><150.6428><-298~166~2~3, Mushroom><802.4333><149.42><0~0~2~3, Mushroom><755.6271><151.9044><0~0~2~3, Mushroom><215.6611><126.8208><-358~107~2~3, Mushroom><697.3141><526.5738><0~0~2~3, Mushroom><669.4023><530.3705><0~0~2~3, LanternOnStick><270.7795><544.0522><-22~-74, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><831.6958><641.6925><0.3369565><1, OMNI><AM_SUB-CaveTone.ogg><652.1201><641.902><0.3586957><1, OMNI><SO_WAT-LilDrips.ogg><475.3262><639.9009><0.3804348><1, 
+FadePalette: 17, 0.2391304

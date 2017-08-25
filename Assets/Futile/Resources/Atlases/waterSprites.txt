@@ -1,0 +1,36 @@
+{"frames": {
+
+"90DegreeSplash.png":
+{
+	"frame": {"x":52,"y":2,"w":194,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":194,"h":107},
+	"sourceSize": {"w":194,"h":107}
+},
+"RainSplash.png":
+{
+	"frame": {"x":2,"y":226,"w":232,"h":197},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":232,"h":197},
+	"sourceSize": {"w":232,"h":197}
+},
+"TallSplash.png":
+{
+	"frame": {"x":2,"y":2,"w":48,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":222},
+	"sourceSize": {"w":48,"h":222}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "waterSprites.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7c5bb4f14d728bd238ae3a8546c43865:dc6f11492692d4734200e1d106a0af66:04f4e54a219a4a10fcb109cc28a3f53d$"
+}
+}

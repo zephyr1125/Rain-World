@@ -1,0 +1,5 @@
+DangerType: Flood
+Grime: 0.07608695
+BkgDroneVolume: 0
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><731.8688><457.5891><0.3913043><1><465.8688><454.5891><-123.3553><-24.35535><0><0.2739132, 
+FadePalette: 8, 0.2826087

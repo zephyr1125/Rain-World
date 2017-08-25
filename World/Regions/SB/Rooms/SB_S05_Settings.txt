@@ -1,0 +1,2 @@
+BkgDroneVolume: 0
+AmbientSounds: OMNI><SO_NAT-LilDrips.ogg><826.532><640.8026><0.2065217><1, OMNI><AM_SUB-BlankState.ogg><644.9576><640.0546><0.3152174><1, OMNI><AM_SUB-CaveTone.ogg><641.0848><552.6373><0.3043478><1, 

@@ -1,0 +1,5 @@
+CeilingDrips: 0.6086956
+Grime: 0
+PlacedObjects: VoidSpawnEgg><435.5234><308.8013><0~0~2~3~3, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><839.627><641.9077><0.3478261><0.9217392, OMNI><SO_WAT-LilDrips.ogg><655.0596><638.5611><0.1956522><1, 
+FadePalette: 0, 0.1086956

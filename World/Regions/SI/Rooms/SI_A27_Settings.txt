@@ -1,0 +1,7 @@
+Template: SI_SettingsTemplate_Inside
+Clouds: 0.1086956
+Grime: 0.2391304
+Palette: 3
+EffectColorA: 8
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><799.2922><307.9455><0.3369565><1><498.2922><471.9455><-173.3553><33.64465><0><0.4586958, SPOT><AM_IND-Utility02.ogg><806.6412><165.6417><0.4456522><1><445.6412><163.6417><-277.3553><76.64465><0><0.4695654, 
+FadePalette: 8, 0.3478261

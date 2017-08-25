@@ -1,0 +1,3 @@
+Template: CC_SettingsTemplate_Inside
+Grime: 0.173913
+FadePalette: 8, 0.4565217

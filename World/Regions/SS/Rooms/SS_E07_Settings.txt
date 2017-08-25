@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+Clouds: 0
+Grime: 0
+BkgDroneVolume: 0
+Palette: 23
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.2065217-21-80, SuperStructureProjector-1-20-201, SunBlock-1-23-142, SSMusic-0.1195652-277-20, SSSwarmers-0.02173913-288-91, 
+PlacedObjects: LightFixture><346.5559><444.5482><RedLight~17.32051~-10~100, LightSource><418.5511><103.521><0.6847826~Environment~0~100~50~86.60254~1~0, CoralNeuron><219.9166><3611.861><200~-1958, CoralNeuron><182.3><1321.056><216~-202, CoralNeuron><656.3282><1359.434><124~119, CoralNeuron><778.136><2054.896><-93~-109, CoralNeuron><125.804><1948.308><86~112, CoralNeuron><739.9191><3547.301><-26~-999, CoralNeuron><449.9478><2636.72><81~156, CoralNeuron><151.1604><2720.429><-57~194, CoralNeuron><601.3841><3334.663><-105~-56, LightFixture><902.2717><1461.449><RedLight~17.32051~-10~17, LightSource><80.07007><852.1874><0.6521739~White~-46~107~50~86.60254~1~0, LightSource><10.05017><1431.242><0.5869565~White~-81~111~50~86.60254~1~0, LightFixture><933.7><1858.245><RedLight~17.32051~-10~97, LightFixture><221.4218><2141.853><RedLight~17.32051~-10~97, LightFixture><772.4453><2834.192><RedLight~17.32051~-10~71, LightFixture><607.3046><3698.692><RedLight~17.32051~-10~7, LightSource><383.0526><3720.218><0.7934783~Environment~16~98~-197~-299.3975~1~0, WallMycelia><19.15729><2780.126><-11~240, WallMycelia><982.7811><2553.802><14~-242, WallMycelia><89.94934><2354.984><-5~137, WallMycelia><63.05347><1265.807><-4~174, WallMycelia><914.8284><1354.853><23~-168, WallMycelia><69.58948><1915.821><-6~151, WallMycelia><923.7717><2007.199><-2~162, WallMycelia><58.19885><3376.229><-13~247, WallMycelia><848.4463><3310.789><-47~253, WallMycelia><385.3002><3632.741><90~-140, 
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><834.6715><654.434><0.5217391><1, OMNI><AM_WIN-StrongWnd2.ogg><656.5345><656.553><0.5869565><1, SPOT><SO_SFX-Data4.ogg><742.424><252.1514><0.3152174><1><574.424><173.1514><-152.3553><-53.35534><0><0.1652175, 
+FadePalette: 17, 0, 0, 0, 0, 0

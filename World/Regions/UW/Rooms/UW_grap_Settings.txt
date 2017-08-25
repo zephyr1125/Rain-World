@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.6195652
+Grime: 0.3043478
+Palette: 16
+EffectColorA: 2
+EffectColorB: 8
+Effects: GreenSparks-0.2391304-12-191, Lightning-0.4021739-13-131, 

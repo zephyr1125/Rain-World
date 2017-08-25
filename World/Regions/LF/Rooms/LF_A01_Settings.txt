@@ -1,0 +1,6 @@
+DangerType: Rain
+BkgDroneVolume: 0.2569565
+EffectColorA: 7
+PlacedObjects: NoSpearStickZone><961.155><441.1265><-44~125, NoSpearStickZone><65.37457><628.8435><-1~65, CustomDecal><203.5695><148.0862><0~131~736~148~741~22~-299~84.99998~0.326087~0.3913043~0~JellyFish~0.3478261~0.2934783~0.5108696~0.1630435~0.4021739~1~1~0.3804348, CustomDecal><162.5812><23.85724><-11~297~686~343~724~-31~198~331~0.3043478~0.4782609~0~Rust3~1~1~0.8152174~1~0~1~0.7826087~1, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><831.8484><652.0759><0.4673913><0.9021739, OMNI><AM_ENV-LightWind.ogg><656.8224><652.9364><0.423913><0.6869565, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_49 - Nest in Metal<eA>vol<eB>0.3108693<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>4<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>651.7761<tB>558.1983<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>495.7761<tB>385.1983<tA>handlePos<tB>-419.3553<tB>-255.3553, 

@@ -1,0 +1,14 @@
+DangerType: FloodAndRain
+CeilingDrips: 0.5
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.1413043
+Grime: 0.2065217
+BkgDroneVolume: 0.2769565
+Palette: 9
+EffectColorA: 3
+EffectColorB: 13
+Effects: Flies-0.1847826-20-20, 

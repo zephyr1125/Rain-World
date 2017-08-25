@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0.5434783
+BkgDroneVolume: 0
+Palette: 17
+EffectColorA: 13
+Effects: VoidMelt-0.7391304-22-73, VoidSpawn-0.4456522-20-20, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><833.6546><639.1758><0.7391304><1.254348, OMNI><AM_ENV-SubTerr.ogg><662.0606><641.1857><0.7608696><1.430435, OMNI><SO_WAT-DripTap.ogg><483.3101><632.3127><0.3586957><1.176087, 

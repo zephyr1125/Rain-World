@@ -1,0 +1,7 @@
+Template: UW_SettingsTemplate_Underhang
+DangerType: Thunder
+Clouds: 0.7282609
+Grime: 0.06521739
+Effects: ExtraLoudThunder-0.4456522-14-133, ElectricDeath-0.4456522-273-19, 
+AmbientSounds: SPOT><SO_IND-HeatDuct.ogg><746.9478><223.7199><0.3369565><1><153.9478><178.7199><-43.35535><-35.35535><0><0.2195653, 
+FadePalette: 17, 0.3152174

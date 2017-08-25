@@ -1,0 +1,11 @@
+DangerType: Thunder
+Clouds: 0.3369565
+Grime: 0.1413043
+BkgDroneVolume: 0
+Palette: 16
+EffectColorA: 18
+EffectColorB: 5
+Effects: Lightning-0.6956522-20-20, ExtraLoudThunder-0.7065217-18-76, ElectricDeath-0.6304348-279-21, 
+PlacedObjects: LightSource><783.8694><222.6604><0.5217365~Environment~0~100~49.02417~-231.4013~1~0, LightSource><188.5583><604.6932><1~Environment~0~100~50~86.60254~1~0, LightSource><157.8021><155.4722><0.5978261~Environment~0~100~50~86.60254~1~0, DangleFruit><876.0974><193.4246><0~0~2~3, DangleFruit><847.3836><187.3511><0~0~2~3, 
+AmbientSounds: OMNI><SO_WAT-RainishDrips.ogg><819.197><631.2155><0.3478261><1, SPOT><SO_IND-Generator.ogg><61.19653><509.2872><0.2717391><0.9804348><761.1835><326.2511><-149.3553><-18.35535><0><0.2413045, SPOT><AM_IND-ElectricHum01.ogg><67.43433><390.5777><0.2065217><1><383.5333><580.4474><-71.35535><-39.35535><0><0.3065217, SPOT><SO_IND-HeatDuct.ogg><64.80261><278.0571><0.3695652><1><65.7457><190.1207><-45.35535><-44.35535><0><0.2086956, 
+FadePalette: 17, 0.4456522

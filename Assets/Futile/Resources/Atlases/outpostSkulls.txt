@@ -1,0 +1,140 @@
+{"frames": {
+
+"skull1_1.png":
+{
+	"frame": {"x":2,"y":2,"w":38,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":58},
+	"sourceSize": {"w":38,"h":58}
+},
+"skull1_2.png":
+{
+	"frame": {"x":42,"y":2,"w":37,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":58},
+	"sourceSize": {"w":38,"h":58}
+},
+"skull1_3.png":
+{
+	"frame": {"x":81,"y":2,"w":34,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":34,"h":46},
+	"sourceSize": {"w":38,"h":58}
+},
+"skull1_4.png":
+{
+	"frame": {"x":117,"y":2,"w":35,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":35,"h":34},
+	"sourceSize": {"w":38,"h":58}
+},
+"skull2_1.png":
+{
+	"frame": {"x":154,"y":2,"w":39,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":65},
+	"sourceSize": {"w":39,"h":65}
+},
+"skull2_2.png":
+{
+	"frame": {"x":195,"y":2,"w":38,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":61},
+	"sourceSize": {"w":39,"h":65}
+},
+"skull2_3.png":
+{
+	"frame": {"x":2,"y":69,"w":38,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":38,"h":47},
+	"sourceSize": {"w":39,"h":65}
+},
+"skull2_4.png":
+{
+	"frame": {"x":42,"y":69,"w":37,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":37,"h":46},
+	"sourceSize": {"w":39,"h":65}
+},
+"skull3_1.png":
+{
+	"frame": {"x":81,"y":69,"w":37,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":55},
+	"sourceSize": {"w":37,"h":55}
+},
+"skull3_2.png":
+{
+	"frame": {"x":120,"y":69,"w":37,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":55},
+	"sourceSize": {"w":37,"h":55}
+},
+"skull3_3.png":
+{
+	"frame": {"x":159,"y":69,"w":37,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":37,"h":43},
+	"sourceSize": {"w":37,"h":55}
+},
+"skull3_4.png":
+{
+	"frame": {"x":198,"y":69,"w":34,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":34,"h":46},
+	"sourceSize": {"w":37,"h":55}
+},
+"skull4_1.png":
+{
+	"frame": {"x":2,"y":126,"w":38,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":56},
+	"sourceSize": {"w":38,"h":56}
+},
+"skull4_2.png":
+{
+	"frame": {"x":42,"y":126,"w":34,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":34,"h":53},
+	"sourceSize": {"w":38,"h":56}
+},
+"skull4_3.png":
+{
+	"frame": {"x":78,"y":126,"w":34,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":34,"h":45},
+	"sourceSize": {"w":38,"h":56}
+},
+"skull4_4.png":
+{
+	"frame": {"x":114,"y":126,"w":33,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":7,"w":33,"h":43},
+	"sourceSize": {"w":38,"h":56}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "outpostSkulls.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ee778fe8767a44ac61b4097d7c1541e1:207435836903aaed295fc33764719d0d:47cba1e4477c458764740a4e66baaf3e$"
+}
+}

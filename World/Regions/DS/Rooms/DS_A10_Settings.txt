@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 4
+PlacedObjects: CustomDecal><-50.46484><175.6969><-41~237~1161~248~1183~11~0~0~0.05434782~1~0~DirtyWaterLine~0.8043478~1~0.5434783~1~0.2608696~1~0.2391304~1, 
+FadePalette: 8, 0.1630435

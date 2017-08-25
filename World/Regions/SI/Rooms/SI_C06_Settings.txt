@@ -1,0 +1,10 @@
+Template: SI_SettingsTemplate_Inside
+Clouds: 0.2934783
+Grime: 0.25
+Palette: 3
+EffectColorA: 8
+EffectColorB: 13
+PlacedObjects: SuperStructureFuses><589.7249><1298.302><100~72, SuperStructureFuses><291.1988><1328.022><34~33, SuperStructureFuses><479.1204><1376.402><22~14, SuperStructureFuses><335.2429><487.9499><362~31, LightSource><303.2616><1345.301><0.2391304~Environment~0~100~50~86.60254~1~0, LightSource><495.8676><1394.339><0.326087~Environment~0~100~50~86.60254~1~0, LightSource><348.3094><2233.061><0.2282609~Environment~0~100~50~86.60254~1~0, DataPearl><129.6187><1276.849><-293~-15~0~0~0~0, InsectGroup><558.7384><436.9472><-165~71~0~0~StandardFly~0.2392114, ReliableSpear><446.8437><1042.573><, InsectGroup><606.9838><2266.801><-132~84~0~0~TinyDragonFly~0.2065216, CustomDecal><385.2175><1308.291><-65~1425~411~1451~440~-29~424~-377~0.05434782~1~0~Rust1~0~1~1~1~0~1~0~1, CustomDecal><467.8405><205.3707><-23~84~394~85~414~-1~-636~174~0.3043478~1~0~CrudeGrey~0.5108696~0~0.1521739~0.8369565~0.2282609~1~0~1, 
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><829.799><528.9439><0.2608696><1><552.799><2120.944><-154.3553><24.64465><0><0.4695654, SPOT><AM_IND-Utility02.ogg><830.9492><418.0177><0.3695652><1><499.9492><1685.018><-256.3553><113.6447><0><0.5673915, SPOT><AM_IND-Utility03.ogg><837.5962><39.12781><0.326087><0.9413043><476.5962><953.1281><-355.3553><73.64466><0><0.328261, SPOT><AM_ENV-LightWind.ogg><322.7239><55.9483><0.4565217><0.823913><744.7239><279.9483><-148.3553><43.64465><0><0.4804349, SPOT><AM_IND-DeepHum.ogg><749.8975><310.1351><0.1847826><1><491.8975><502.1351><-182.3553><10.64465><0><0.4695654, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NA_23 - Speaking Systems<eA>vol<eB>0.3326084<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>0<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>614.0758<tB>563.0649<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>421.0758<tB>1316.065<tA>handlePos<tB>-248.3553<tB>-300.3553, 
+FadePalette: 8, 0.25, 0, 0

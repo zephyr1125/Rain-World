@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0.326087
+Palette: 18
+Effects: ZeroG-1-20-20, ZeroGSpecks-0.3804348-19-81, Bloom-0.25-20-150, 
+PlacedObjects: LightSource><544.6027><464.3853><1~Environment~-115~118~50~86.60254~1~0, LightSource><-18.58765><98.36684><1~Environment~-60~111~-142~388.6025~1~0, LightSource><934.7974><461.1943><1~Environment~0~100~50~86.60254~1~0, LightSource><952.9839><11.30067><1~Environment~0~100~50~86.60254~1~0, LightFixture><111.9673><564.8027><RedLight~17.32051~-10~40, LightFixture><867.4611><552.8038><RedLight~-1027.679~4~77, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><833.5819><646.3584><0.2717391><0.9413043, SPOT><SO_IND-FlourLight.ogg><64.31665><505.5614><0.2826087><1><862.3167><577.5614><-50.35535><-36.35535><0><0.2630436, SPOT><SO_IND-FlourLight.ogg><70.8974><386.6148><0.2826087><1><116.8974><587.6148><-43.35535><-43.35535><0><0.3065219, SPOT><SO_IND-Deep50hz.ogg><73.61407><158.3533><0.3152174><1><618.6141><457.3533><-94.35535><-79.35535><0><0.1434784, SPOT><SO_SFX-Drowning.ogg><73.94922><274.7677><0.4021739><1><402.9492><311.7677><-262.3553><-143.3553><0><0.3391306, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NA_09 - Interest Pad<eA>vol<eB>0.3217389<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>4<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1055.199<tB>560.5566<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>pos<tB>735.199<tB>392.5566<tA>handlePos<tB>-221.3553<tB>-28.35535, 
+FadePalette: 17, 0.7826087

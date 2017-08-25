@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 0.6086956
+Clouds: 0.1956522
+Grime: 0
+BkgDroneVolume: 0
+Palette: 10
+Effects: LightBurn-0.2065217-38-142, VoidSpawn-0-20-20, 
+PlacedObjects: LightSource><221.5776><1576.149><0.5978261~White~112~-5~50~86.60254~1~0, LightSource><763.2241><1574.198><0.5108696~White~127~4~50~86.60254~1~0, 
+AmbientSounds: SPOT><SO_NAT-LilDrips.ogg><843.1923><26.55518><0.326087><1><389.1923><161.5552><-236.3553><-28.35534><0><0.3173914, SPOT><SO_WAT-OpenFlow.ogg><122.4415><513.3087><0.326087><0.726087><36.44147><168.3087><-233.3553><156.6447><0><0.4804347, SPOT><OM.wav><712.0533><476.4635><0.2282609><1.019565><659.0533><324.4635><-92.35535><-156.3553><0><0.3500001, OMNI><AM_ENV-CityTone.ogg><712.6432><603.5809><0.4456522><0.8434783, SPOT><AM_WIN-SubWnd.ogg><856.9388><282.9339><0.3913043><1><766.9388><1525.934><-275.3553><-29.35535><0><0.3934784, SPOT><OM.wav><399.9285><530.0902><0.2717391><0.9608696><292.9285><1225.09><-122.3553><-61.35535><0><0.1, SPOT><SO_WAT-LilDrips.ogg><116.0728><393.8427><0.2391304><1><153.0728><907.8429><-197.3553><-38.35534><0><0.2304347, SPOT><SO_NAT-LilDrips.ogg><594.1892><232.9352><0.3043478><1><830.1892><1333.935><-139.3553><-42.35535><0><0.3608697, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_SH_CRYPTS<eA>vol<eB>0.3326084<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1043.55<tB>552.9961<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0, 
+FadePalette: 9, 0.1304348, 0.1195652

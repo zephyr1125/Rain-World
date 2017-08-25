@@ -1,0 +1,10 @@
+Clouds: 0.2282609
+Grime: 0.173913
+BkgDroneVolume: 0.2869565
+Palette: 6
+EffectColorA: 10
+EffectColorB: 2
+Effects: Fog-0.2282609-20-20, 
+PlacedObjects: DangleFruit><689.8058><585.9523><-186~-194~2~3, DangleFruit><736.3747><561.1564><-290~-191~2~3, 
+AmbientSounds: SPOT><SO_IND-HVAC.ogg><745.2647><307.1995><0.2282609><0.9608696><504.2647><1099.199><-148.3553><37.64465><0><0.2304349, 
+FadePalette: 15, 0.5543478, 0.4891304

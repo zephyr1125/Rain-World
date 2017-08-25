@@ -1,0 +1,3 @@
+Template: HI_SettingsTemplate_Inside
+DangerType: Flood
+FadePalette: 20, 0.0326087

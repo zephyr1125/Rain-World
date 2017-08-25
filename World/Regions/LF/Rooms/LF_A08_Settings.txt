@@ -1,0 +1,4 @@
+BkgDroneVolume: 0.2569565
+Effects: 
+PlacedObjects: PuffBall><238.1275><400.4081><, PuffBall><468.1564><402.1253><, PuffBall><288.0601><413.6873><, PuffBall><426.0652><424.0766><, 
+FadePalette: 8, 0.3586957

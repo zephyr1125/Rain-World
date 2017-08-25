@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.8804348
+Grime: 0
+BkgDroneVolume: 0
+Palette: 13
+PlacedObjects: SuperStructureFuses><400.7468><50.05002><368~31, VoidSpawnEgg><127.626><175.5947><-236~358~2~3~2, VoidSpawnEgg><247.5965><177.4252><-355~257~2~3~2, CustomDecal><651.8388><-34.86841><68.55914~805.5701~-865.5591~505.6239~-797.0004~-17.13979~-183~277~0.0326087~1~0~Rust1~0.6847826~1~0.9456522~1~0.6956522~1~0.2065217~1, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><829.1597><647.1296><0.2826087><1, OMNI><waterGurgleLOOP1.wav><651.2899><645.946><0.25><1, SPOT><SO_WAT-OpenFlow.ogg><758.7697><250.551><0.326087><1><915.7698><381.551><-4.355347><-138.3553><0><0.2195653, 
+FadePalette: 8, 0.6630435

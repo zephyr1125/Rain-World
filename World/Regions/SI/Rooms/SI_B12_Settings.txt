@@ -1,0 +1,11 @@
+Clouds: 0.1847826
+Grime: 0.423913
+BkgDroneVolume: 0.2608696
+Palette: 2
+EffectColorA: 5
+EffectColorB: 2
+Effects: Fog-0.2065217-20-20, 
+PlacedObjects: DataPearl><865.8041><1045.959><-605~392.5682~0~0~0~0, UniqueDataPearl><202.8168><1210.67><-244~91~0~0~3~1, FirecrackerPlant><471.1825><1063.918><-501~35~2~3, FirecrackerPlant><666.9696><1065.553><-313.9978~-148~2~3, FirecrackerPlant><695.4778><1061.551><-718~-128~2~3, InsectGroup><608.652><1158.87><-159~99~0~0~TinyDragonFly~0.4456522, CustomDecal><92.38196><125.0885><-69~341~1171~393~1138~5~-100~314~0~1~0~RustB3~0~1~1~1~1~1~0~1, 
+AmbientSounds: SPOT><AM_ENV-LightWind.ogg><856.8206><469.0629><0.2717391><1><573.8206><631.0629><-149.3553><55.64465><0><0.3500001, SPOT><AM_IND-DeepHum.ogg><608.3882><210.8341><0.1847826><1><571.3882><286.8341><-65.35535><-48.35535><0><0.4260871, SPOT><AM_IND-50hz.ogg><856.8085><199.5576><0><0.9608696><761.8085><303.5576><-35.35534><-35.35534><0><0.2739132, SPOT><AM_IND-50hz.ogg><412.8643><300.0858><0.2282609><1.019565><397.8643><306.0858><-35.35534><-35.35534><0><0.2630436, SPOT><AM_IND-50hz.ogg><169.9203><303.3951><0.2065217><0.9413043><212.9203><305.3951><-35.35534><-35.35534><0><0.3173914, SPOT><AM_IND-50hz.ogg><878.6954><359.4575><0.1847826><0.1><937.6954><296.4575><-35.35534><-35.35534><0><0.2413045, SPOT><AM_WIN-StrongWnd2.ogg><629.1115><616.6058><0.25><1><603.1115><1324.605><-189.3553><38.64465><0><0.4695654, SPOT><AM_IND-DeepHum.ogg><451.1807><611.8358><0.4021739><1><587.1807><1325.836><-92.35535><-10.35535><0><0.404348, OMNI><AM_ENV-LightWind.ogg><862.3459><650.8726><0.3695652><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>NA_04 - Silicon<eA>vol<eB>0.3217389<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>6<eA>rest<eB>5<eA>fadeIn<eB>156.5217<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>630.5386<tB>556.3038<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>593.5386<tB>1309.304<tA>handlePos<tB>-159.3553<tB>-312.3553, 
+FadePalette: 18, 0.1956522, 0.2282609

@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 4
+EffectColorB: 6
+AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><751.05><476.4966><0.423913><0.4326087><761.05><555.4966><-283.3553><17.64465><0><0.654348, OMNI><AM_IND-Utility02.ogg><499.3091><503.4403><0.2282609><0.9021739, 
+FadePalette: 8, 0.1847826

@@ -1,0 +1,4 @@
+Template: SL_SettingsTemplate_Sewer
+Grime: 0.1956522
+AmbientSounds: SPOT><waterGurgleLOOP1.wav><69.84149><493.3781><0.3804348><1><279.8415><549.3781><-70.35535><-44.35535><0><0.2413045, SPOT><AM_IND-Utility02.ogg><126.1902><342.5618><0.5><1><551.1902><599.5618><-62.35535><-52.35535><0><0.1869565, 
+FadePalette: 8, 0.2282609

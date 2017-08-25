@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Grime: 0
+BkgDroneVolume: 0
+Palette: 17
+EffectColorA: 13
+Effects: VoidMelt-0.2173913-20-20, 
+PlacedObjects: VoidSpawnEgg><599.5706><318.4117><-166~181~2~3~0, VoidSpawnEgg><637.054><278.2899><-457~217~2~3~0, VoidSpawnEgg><566.6426><278.1403><-133~113~2~3~0, 
+AmbientSounds: OMNI><AM_SUB-MysticCave2.ogg><832.5333><641.9472><0.3369565><0.8630434, OMNI><AM_SUB-BlankState.ogg><646.2765><642.8018><0.4130435><1, SPOT><SO_WAT-LilDrips.ogg><760.3176><369.4382><0.1956522><1><320.3176><88.43825><-206.3553><-45.35535><0><0.3608697, OMNI><SO_WAT-DripTap.ogg><647.9677><566.1974><0.3586957><1, 

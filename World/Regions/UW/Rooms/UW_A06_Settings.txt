@@ -1,0 +1,12 @@
+Template: UW_SettingsTemplate_Underhang
+DangerType: Thunder
+Clouds: 0.3695652
+Grime: 0.02173913
+BkgDroneVolume: 0
+Palette: 16
+EffectColorA: 18
+EffectColorB: 0
+Effects: Lightning-0.7065217-41-178, GreenSparks-0.2065217-44-124, ExtraLoudThunder-1-48-70, ElectricDeath-0.5652174-49-13, 
+PlacedObjects: LightSource><781.6825><478.3726><0.423913~Environment~0~100~50~86.60254~1~0, LightSource><337.1359><295.8534><0.4117816~Environment~0~100~50~86.60254~1~0, LightSource><772.9437><145.9498><0.6848145~Environment~0~100~50~86.60254~1~0, LightSource><568.8018><421.2285><1~Environment~0~100~50~86.60254~1~0, LightSource><183.5581><518.4439><0.6827087~Environment~0~100~50~86.60254~1~0, 
+AmbientSounds: SPOT><SO_IND-HeatDuct.ogg><67.64038><498.6673><0.4565217><1><317.2006><318.9073><-51.35535><-38.35535><0><0.3173913, SPOT><SO_IND-HeatDuct.ogg><70.09595><381.4255><0.4130435><0.9804348><634.0964><318.4251><-48.35535><-45.35535><0><0.2630434, SPOT><AM_IND-DeepHum.ogg><77.94592><261.9598><0.5><1><463.9543><38.95708><-159.3553><-58.35534><0><0.2956523, SPOT><SO_SFX-Doomsday.ogg><246.9172><496.3597><0.5><1><529.9173><189.3598><-226.3553><-78.35535><0><0.5130436, 
+FadePalette: 17, 0.3369565

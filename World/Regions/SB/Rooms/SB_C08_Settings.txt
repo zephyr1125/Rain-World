@@ -1,0 +1,7 @@
+DangerType: None
+BkgDroneVolume: 0
+Palette: 17
+EffectColorA: 13
+EffectColorB: 0
+Effects: VoidMelt-0.5978261-30-148, VoidSpawn-0.05434782-20-20, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><833.6987><651.7723><0.5><1.078261, OMNI><AM_ENV-SubTerr.ogg><656.3652><649.3977><0.5><1.097826, OMNI><SO_WAT-DripTap.ogg><832.1514><571.8694><0.3478261><1, SPOT><AM_ENV-LightWind.ogg><727.8817><520.1613><0.3913043><1><2571.882><477.1613><-35.35534><-35.35534><0><0.3065219, SPOT><AM_ENV-LightWind.ogg><115.1619><492.1175><0.3913043><1><2519.162><314.1175><-100.3553><-51.35535><0><0.3065219, 

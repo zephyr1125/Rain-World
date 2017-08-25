@@ -1,0 +1,2 @@
+PlacedObjects: SuperStructureFuses><469.3578><78.63783><185~67, 
+FadePalette: 10, 0.3478261

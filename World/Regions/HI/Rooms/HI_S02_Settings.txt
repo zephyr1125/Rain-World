@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Flood
+BkgDroneVolume: 0
+Palette: 5
+AmbientSounds: SPOT><Basic Mech.ogg><720.6788><158.4104><0.1956522><1><472.6788><460.4104><-41.35535><-46.35535><0><0.4478262, 
+FadePalette: 8, 0.2391304

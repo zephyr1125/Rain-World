@@ -1,0 +1,3 @@
+Template: SI_SettingsTemplate_Inside
+Palette: 3
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><770.7397><385.9497><0.423913><1><727.7397><177.9497><-138.3553><-69.35535><0><0.2847827, 

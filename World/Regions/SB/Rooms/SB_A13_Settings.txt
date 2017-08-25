@@ -1,0 +1,4 @@
+BkgDroneVolume: 0
+RandomItemDensity: 0
+PlacedObjects: TradeOutpost><427.5511><500.7288><31~126, LanternOnStick><206.5526><551.7818><13~-106, LanternOnStick><145.7088><575.6957><26~-91, LanternOnStick><611.0341><553.6971><-26~-113, LanternOnStick><752.6986><551.2264><-13~-70, CustomDecal><126.197><380.7156><-13~118~688~104~673~18~-29~-342~0~0~0~Scav Wedges2~0.6413044~0~0.6521739~0~0~0.9891304~0~0.7934783, 
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><724.8257><661.598><0.3043478><1, OMNI><AM_SUB-CaveTone.ogg><553.3008><658.9823><0.3369565><1, OMNI><AM_SUB-BlankState.ogg><729.5615><582.0669><0.3152174><1, 

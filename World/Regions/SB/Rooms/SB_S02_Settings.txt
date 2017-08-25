@@ -1,0 +1,3 @@
+DangerType: Flood
+Palette: 17
+FadePalette: 21, 0.3913043

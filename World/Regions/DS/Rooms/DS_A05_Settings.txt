@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 4
+EffectColorA: 2
+EffectColorB: 5
+PlacedObjects: DangleFruit><965.0966><484.3783><, DangleFruit><939.6013><470.3275><, DangleFruit><914.6003><504.6173><, DangleFruit><167.4462><521.2891><, DangleFruit><512.5621><604.9314><, DangleFruit><746.7886><601.0538><, DangleFruit><123.5163><329.4493><, DangleFruit><152.8546><313.3295><, 
+AmbientSounds: OMNI><SO_WAT-OpenFlow.ogg><732.537><473.6965><0.3152174><0.9804348, SPOT><SO_WAT-RunningWater.ogg><879.4429><21.6973><0.3152176><1><835.4429><218.6973><-106.3553><55.64465><0><0.6326092, 
+FadePalette: 8, 0.2391304

@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.3043478
+Grime: 0.1195652
+BkgDroneVolume: 0.2769565
+Palette: 0
+EffectColorA: 9
+EffectColorB: 7
+PlacedObjects: LightSource><340.0509><116.5566><0.3369565~Environment~0~100~-225~164.6025~1~0, LightSource><639.7815><293.1975><1~Environment~0~100~50~86.60254~1~0, Mushroom><256.0798><84.39499><-360~398~2~3, Mushroom><170.1946><61.70363><-276~496~2~3, Mushroom><200.363><89.66498><-300~305~2~3, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><777.4099><476.6785><0.3695652><0.7065217, OMNI><AM_ENV-LightWind.ogg><774.8672><580.1003><0.326087><0.4326087, SPOT><SO_IND-MechHum02.ogg><552.8458><545.3245><0.3152174><1><420.8458><292.3244><-76.35535><-72.35535><0><0.3717393, SPOT><AM_IND-ElectricHum02.ogg><880.3017><390.4741><0.2391303><1><622.3017><311.4741><-61.35535><-74.35535><0><0.2956521, 
+FadePalette: 8, 0.5

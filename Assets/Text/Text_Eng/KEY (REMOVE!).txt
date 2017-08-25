@@ -1,0 +1,54 @@
+1 - Ghost CC
+2 - Ghost SI
+3 - Ghost LF
+4 - Ghost SH
+5 - Ghost UW
+6 - Ghost SB
+
+7 - Pearl CC
+8 - Pearl SI west (NOT IN USE)
+9 - Pear SI top (NOT IN USE)
+10 - Pearl LF west
+11 - Pearl LF bottom
+12 - Pearl HI
+13 - Pearl SH
+14 - Pearl DS
+15 - Pearl SB filtration
+16 - Pearl GW
+17 - Pearl SL bridge
+18 - Pearl SL moon
+
+19 - Moon receieve neuron when having 4, going up to 5
+
+20 - Chat log A
+21 - Chat log B
+22 - Chat log C
+23 - Chat log D
+24 - Chat log E
+
+25 - Moon on KarmaFlower
+26 - Moon on DangleFruit
+27 - Moon on FlareBomb
+28 - Moon on VultureMask
+29 - Moon on PuffBall
+30 - Moon on JellyFish
+31 - Moon on Lantern
+32 - Moon on Mushroom
+33 - Moon on FirecrackerPlant
+34 - Moon on SlimeMold
+
+35 - First encounter 4 neurons
+36 - First encounter 5 neurons(NOT IN USE - there's an if statement here so stays in code)
+37 - First encounter shared part between 4 and 5 neurons
+
+38 - Misc Pearls random selection
+39 - Misc2 Pearls random selection
+40 - Pebbles pearls random selection
+
+41 - Pearl SU
+42 - Pearl UW
+43 - Pearl SB ravine
+
+44 - Moon on Scavenger Bomb
+
+45 - Moon receieve neuron when having 5, going up to 6

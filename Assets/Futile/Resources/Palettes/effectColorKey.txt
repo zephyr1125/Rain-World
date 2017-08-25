@@ -1,0 +1,20 @@
+0: standard pink
+1: neon pink
+2: warm pink
+3: standard cyan
+4: neon cyan
+5: greenish cyan
+6: dirty green
+7: green
+8: cold green
+9: white
+10: blue
+11: neon blue
+12: deep blue
+13: GW yellow
+14: GW yellow neon
+15: alternative yellow
+16: purple
+17: neon purple
+18: red
+19: neon red

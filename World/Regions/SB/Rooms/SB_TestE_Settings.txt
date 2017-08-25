@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.1956522
+Grime: 0.05434782
+BkgDroneVolume: 0
+Palette: 17
+EffectColorA: 13
+EffectColorB: 13
+Effects: VoidMelt-0.6086956-20-20, 
+PlacedObjects: LightSource><1225.327><703.4344><1~White~182~-102~50~86.60254~1~0, LightSource><3393.638><723.4156><1~White~227~-51~50~86.60254~1~0, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><650.4306><642.8359><0.5><1, OMNI><AM_ENV-SubTerr.ogg><836.6974><643.193><0.5217391><1, 
+FadePalette: 1, 0, 0, 0.01086957, 0.02173913, 0.02173913

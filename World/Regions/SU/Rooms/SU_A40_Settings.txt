@@ -1,0 +1,7 @@
+Clouds: 0.1847826
+Grime: 0.4021739
+BkgDroneVolume: 0.2769565
+EffectColorA: 9
+PlacedObjects: InsectGroup><204.0921><579.1775><-105~121~0~0~StandardFly~0.173913, InsectGroup><904.204><117.5554><-200~86~16~-128~RockFlea~0.1195652, CustomDecal><859.5142><106.0505><-5~62~107~78~90~-14~-286~130~0.3043478~1~0~goblinCrude~0.7065217~0~1~0~0.5326087~0.5543478~0.75~0.6739131, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><533.5511><454.2712><0.3586957><0.8043478, 
+FadePalette: 8, 0.08695652

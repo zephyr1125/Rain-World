@@ -1,0 +1,8 @@
+Clouds: 0.2608696
+Grime: 0.04347826
+BkgDroneVolume: 0
+Palette: 21
+EffectColorB: 18
+PlacedObjects: DangleFruit><245.8125><412.6805><-347~145~2~3, DangleFruit><159.5359><343.3033><-250~132~2~3, DangleFruit><92.7796><326.5522><-169~76~2~3, KarmaFlower><404.5757><358.0649><-233~196~5~7, InsectGroup><638.1793><347.6614><-163~66~0~0~RockFlea~0.2826087, 
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><647.6005><638.8672><0.1847826><1, OMNI><AM_SUB-CaveTone.ogg><830.9134><641.8197><0.3152174><1, OMNI><AM_SUB-BlankState.ogg><831.8081><556.9437><0.2065217><1, 
+FadePalette: 10, 0.1630435

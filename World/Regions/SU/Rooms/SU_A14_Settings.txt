@@ -1,0 +1,3 @@
+DangerType: FloodAndRain
+BkgDroneVolume: 0.2769565
+Effects: Flies-0.4130435-0-0, 

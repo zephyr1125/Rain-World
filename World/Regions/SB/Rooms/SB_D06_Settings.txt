@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Grime: 0
+BkgDroneVolume: 0
+Palette: 17
+PlacedObjects: LightFixture><567.7062><2937.695><RedLight~17.32051~-10~17, LightFixture><420.1948><2909.295><RedLight~17.32051~-10~77, LightFixture><602.1998><2638.242><RedLight~17.32051~-10~77, LightFixture><366.6786><2616.09><RedLight~17.32051~-10~7, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><832.1979><646.2787><0.3586957><1, OMNI><AM_SUB-BlankState.ogg><653.5513><643.8067><0.3695652><1, SPOT><SO_IND-Turbine.ogg><64.53638><506.3033><0.5217391><1><464.5364><2291.303><-303.3553><86.64465><0><0.5673915, SPOT><SO_IND-FlourLight.ogg><241.4064><506.8232><0.2826087><1><474.4064><2916.823><-35.35534><-35.35534><0><0.3391306, SPOT><SO_IND-FlourLight.ogg><244.4585><390.5544><0.2608696><1><374.4585><2610.554><-35.35534><-35.35534><0><0.4152175, SPOT><SO_IND-FlourLight.ogg><253.7352><270.9495><0.2717391><1.03913><549.7352><2587.949><-35.35534><-35.35534><0><0.3608697, SPOT><SO_NAT-LilDrips.ogg><257.0999><150.8267><0.1521739><1><482.0999><301.8267><-145.3553><-65.35535><0><0.4913045, 
+Triggers: Spot<tA>event<tB>StopMusicEvent<eA>songName<eB>NA_27 - Silent Construct<eA>prio<eB>1<eA>type<eB>1<eA>fadeOut<eB>200<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>704.8414<tB>219.4279<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>487.8414<tB>1922.428<tA>handlePos<tB>-182.3553<tB>-71.35535, 

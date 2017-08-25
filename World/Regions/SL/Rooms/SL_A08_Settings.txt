@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.7717391
+Clouds: 0.07608695
+Grime: 0.326087
+BkgDroneVolume: 0.2769565
+Palette: 13
+EffectColorB: 6
+Effects: Fog-0.4565217-20-20, 
+PlacedObjects: KarmaFlower><692.878><347.4037><0~0~5~7, WaterNut><301.6855><272.8247><356~-235~2~3, WaterNut><323.837><293.884><61.00003~-265~2~3, ProjectedImagePosition><812.381><313.4011><, CustomDecal><235.6793><61.9371><47~667~-122~649~-103~-14~-310~-222~0.02173913~1~0~Rust2~1~0.3152174~1~0.3152174~0~0.3152174~0~0.3152174, InsectGroup><384.6724><278.0657><2~79~-322~49~RockFlea~0.2065217, InsectGroup><681.3696><279.9016><-42~84~-221~141~RockFlea~0.3913043, 
+AmbientSounds: OMNI><AM_IND-Utility02.ogg><738.68><455.5872><0.3804348><1, SPOT><SO_WAT-LilDrips.ogg><272.0547><63.19235><0.2608696><1><222.0547><278.1924><-108.3553><-58.35535><0><0.3173914, SPOT><SO_NAT-LilDrips.ogg><813.0503><122.7387><0.4021739><1><646.0503><283.7387><-65.35535><-50.35535><0><0.3826088, SPOT><Basic Mech.ogg><615.8796><604.4097><0.2282609><1><306.8796><561.4097><-111.3553><-35.35535><0><0.3065219, SPOT><waterGurgleLOOP1.wav><50.29999><412.0021><0.2173913><1><27.29999><634.0021><-126.3553><-47.35535><0><0.1652174, 
+Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>711.8048<tB>497.5436<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>pos<tB>339.8048<tB>297.5436<tA>handlePos<tB>-159.3553<tB>-94.35535, 
+FadePalette: 9, 0.6956522

@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: None
+Grime: 0
+BkgDroneVolume: 0
+Palette: 17
+Effects: VoidMelt-0.1413043-20-20, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><830.4451><650.7062><0.326087><1, OMNI><AM_SUB-BlankState.ogg><649.6156><648.8981><0.2826087><1, SPOT><AM_SUB-MysticCave1.ogg><61.87946><497.4025><0.3152174><1><684.8795><574.4025><-88.35535><-71.35535><0><0.3608697, SPOT><SO_NAT-WindTunnel.ogg><764.6104><413.6432><0.1304348><0.9608696><375.6104><489.6432><-110.3553><-53.35535><0><0.328261, 

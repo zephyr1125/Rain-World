@@ -1,0 +1,3 @@
+Template: LF_SettingsTemplate_Farms
+PlacedObjects: GhostSpot><581.0605><1443.559><, InsectGroup><706.5507><312.2668><-391~238~0~0~RedSwarmer~0.1847826, CustomDecal><643.9451><1200.058><-9~67~44~80~50~10~-492~-148~0~1~0~ScavMark Ghost~0~0~1~0~0.5~0.3369565~0.5~0.6304348, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><646.9356><646.6755><0.3804348><0.9413043, OMNI><AM_ENV-Outside.ogg><833.7><648.9951><0.3695652><0.9217392, SPOT><AM_ENV-WindGrass.ogg><776.0961><412.1754><0.423913><1><744.0961><171.1754><-256.3553><-11.35535><0><0.5673915, 

@@ -1,0 +1,4 @@
+Clouds: 0.2717391
+BkgDroneVolume: 0.2608696
+EffectColorB: 3
+FadePalette: 18, 0.1195652

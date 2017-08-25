@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.5543478
+Grime: 0.173913
+BkgDroneVolume: 0
+Palette: 21
+EffectColorB: 6
+Effects: LightBurn-0.3586957-20-20, 
+PlacedObjects: DangleFruit><140.0857><428.6776><0~0~2~3, DangleFruit><175.4335><505.4243><0~0~2~3, DangleFruit><226.2734><468.1384><0~0~2~3, DangleFruit><262.9985><537.2734><0~0~2~3, CentipedeAttractor><524.0043><214.2><-333~59, InsectGroup><216.8893><480.9166><-135~-14~0~0~StandardFly~0.326087, LightSource><881.8612><294.856><1~Environment~-341~5~-345~-294.3975~1~0, LightSource><863.0972><307.847><0.5869565~Environment~-133~139~-500~-220.3975~1~1, LightSource><1018.59><665.1649><0.4565217~Environment~-38~-350~-428~-203.3977~1~1, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><826.9515><646.944><0.3695652><1, OMNI><AM_SUB-BlankState.ogg><645.0742><645.1857><0.3586957><1, OMNI><SO_WAT-LilDrips.ogg><825.7477><566.05><0.3369565><1, 
+FadePalette: 10, 0.326087

@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.3913043
+Grime: 0.3913043
+BkgDroneVolume: 0.2869565
+Palette: 6
+EffectColorA: 10
+EffectColorB: 2
+Effects: Fog-0.173913-20-20, Flies-0.1304348-281-19, 
+PlacedObjects: DangleFruit><169.695><1100.808><-228~382~2~3, DangleFruit><825.1973><982.5334><-882~416~2~3, DangleFruit><245.1415><1169.892><-300~139~2~3, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><761.6189><490.599><0.1847826><1, OMNI><AM_ENV-LightWind.ogg><751.1595><583.1206><0.3478261><0.8630434, SPOT><SO_IND-HVAC.ogg><724.8052><311.5453><0.2065217><1.273913><872.8052><2016.546><-126.3553><56.64465><0><0.2630436, 
+FadePalette: 15, 0.4782609, 0.4021739, 0.3369565

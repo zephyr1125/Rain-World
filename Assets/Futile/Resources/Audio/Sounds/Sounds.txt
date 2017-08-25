@@ -1,0 +1,30 @@
+Volume: 1
+Volume exponent: 2.1
+
+//These are comments and will be ignored. Feel free to use them yourself to organize stuff.
+//Below this is an example of the simplest sort of syntax you can work with. Basically it just hooks a trigger to a sample. Technically you could work only like this, the other tools are there to create variation and to allow you to get more out of the same samples.
+
+Slugcat_Flip_Jump : jump6
+
+//CREATURES
+//	Slugcat
+Slugcat_Step_A/DONTLOG : step3/vol=0.1
+Slugcat_Step_B/DONTLOG : step2/vol=0.1
+Slugcat_Pick_Up_Spear : flyBuzz3
+Slugcat_Grab_Beam : flyBuzz3
+
+//		Slugcat-Jumps
+START VOLUME GROUP : #PlayerJumps : 0.7
+
+Slugcat_Normal_Jump/PLAYALL : jump6/vol=0.25, bassOnly/vol=0.8
+Slugcat_Crouch_Jump : jump6/vol=0.2
+Slugcat_Wall_Jump/PLAYALL : jump6/vol=0.3, bassOnly/vol=0.4
+
+END VOLUME GROUP : #PlayerJumps
+
+//	Cicada
+Cicada_Wings_LOOP/rangeFac=0.7 : krakenmoan
+Cicada_Wings_Bump_Attack_Prepare_LOOP : krakenmoan/pitch=0.7
+Cicada_Wings_Bump_Attack_Charge_LOOP/dopplerFac=1.2 : krakenmoan/pitch=1.2
+
+Snail_Charging_LOOP : krakenmoan

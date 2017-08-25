@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0
+Grime: 0.09782609
+Palette: 21
+EffectColorB: 18
+Effects: LightBurn-0.173913-20-20, 
+PlacedObjects: LightSource><618.7848><659.947><1~White~213~-10~-122~-318.3975~1~0, LightSource><1430.184><710.828><1~White~227~-44~84~-239.3975~1~0, LightSource><2278.828><704.8984><1~White~236~-64~33~-220.3975~1~0, 
+FadePalette: 1, 0.05434782, 0.05434782, 0.05434782

@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Thunder
+CeilingDrips: 0.5978261
+Clouds: 0.1630435
+Grime: 0
+BkgDroneVolume: 0
+Palette: 16
+EffectColorB: 4
+Effects: Lightning-0.6847826-18-128, ExtraLoudThunder-0.4021739-19-73, ElectricDeath-0.7934783-20-20, 
+PlacedObjects: LightSource><186.3765><568.6548><0.5~Environment~0~100~50~86.60254~1~0, LightSource><580.7775><462.4481><0.3913043~Environment~-108~-40~141~-92.39746~1~0, Mushroom><592.205><218.9751><0~0~2~3, Mushroom><624.7217><209.039><0~0~2~3, Mushroom><645.2266><208.4486><-354.9991~-127.0026~2~3, SlimeMold><315.0499><514.2567><-489.9911~-120.9804~2~3, SlimeMold><302.308><541.2076><-455~-71.99988~2~3, CosmeticSlimeMold><258.4331><565.343><-120~12, LightFixture><248.7412><543.0436><SlimeMoldLight~-425.6752~12.99329~40, SlimeMold><512.9109><443.3811><-687.0006~-134.0009~2~3, SlimeMold><544.6094><446.4509><-720.0457~-232.3321~2~3, CosmeticSlimeMold><534.5672><462.8116><-57~60, SlimeMold><200.2957><554.0553><-376.0002~-421.0006~2~3, LightFixture><531.2055><442.4846><SlimeMoldLight~47.30792~-149.0264~50, SlimeMold><161.7161><548.1971><-335~-498~2~3, CosmeticSlimeMold><197.0516><535.9722><0~100, CosmeticSlimeMold2><214.5544><554.7878><67~86, CosmeticSlimeMold2><515.588><449.3672><-26~70, 
+AmbientSounds: OMNI><SO_WAT-RainishDrips.ogg><830.3021><646.2792><0.3804348><1, SPOT><SO_IND-HeatDuct.ogg><66.06451><505.6752><0.4456522><1><369.063><402.6729><-41.35535><-37.35535><0><0.2304349, OMNI><AM_ENV-WallHum.ogg><493.9312><645.6652><0.3695652><0.7456522, OMNI><AM_RAIN-QuietThunder.ogg><657.8256><646.6521><0.423913><0.8434783, 
+FadePalette: 17, 0.3369565

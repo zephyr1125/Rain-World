@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.2391304
+BkgDroneVolume: 0.2469565
+Palette: 5
+Effects: Flies-0.07608695-20-20, 
+PlacedObjects: NoSpearStickZone><37.04559><252.4447><-77~88, NoSpearStickZone><243.5723><357.4083><0~100, 
+AmbientSounds: SPOT><AM_IND-Utility03.ogg><471.3587><253.6679><0.5><1><833.3586><656.6678><-26.35535><-67.35535><0><0.3500001, 
+FadePalette: 15, 0.4782609

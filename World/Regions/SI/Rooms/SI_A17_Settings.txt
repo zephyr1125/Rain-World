@@ -1,0 +1,10 @@
+Template: SI_SettingsTemplate_Inside
+DangerType: FloodAndRain
+Clouds: 0.3043478
+Grime: 0.3586957
+Palette: 2
+EffectColorA: 11
+EffectColorB: 2
+PlacedObjects: FirecrackerPlant><429.5569><221.3021><-535~325~2~3, FirecrackerPlant><454.0468><222.1945><-562~240~2~3, FirecrackerPlant><471.064><219.3236><-581~158~2~3, FirecrackerPlant><495.3878><219.6656><-594~73~2~3, FirecrackerPlant><526.9263><221.3141><-623~-16~2~3, InsectGroup><524.5516><194.7758><-84~130~0~0~Beetle~0.3152174, 
+AmbientSounds: SPOT><Basic Mech.ogg><747.3741><159.0946><0.1956522><1><479.3741><78.09457><-110.3553><-29.35535><0><0.4804349, 
+FadePalette: 8, 0.326087

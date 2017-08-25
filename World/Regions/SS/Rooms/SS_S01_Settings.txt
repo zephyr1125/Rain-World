@@ -1,0 +1,6 @@
+DangerType: None
+Grime: 0.09782609
+Palette: 18
+PlacedObjects: LightSource><176.1324><189.6498><1~Environment~0~100~-295~361.6025~1~0, LightFixture><342.5608><501.1851><RedLight~17.32051~-10~27, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><827.5577><633.4451><0.4021739><0.9217392, SPOT><SO_IND-Turbine.ogg><60.32385><491.1859><0.4347826><0.9021739><249.3239><235.1859><-186.3553><-79.35535><0><0.2086958, 
+FadePalette: 17, 0.8043478
